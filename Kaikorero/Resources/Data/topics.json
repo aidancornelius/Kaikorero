@@ -1,0 +1,107 @@
+[
+    {
+        "id": "mihimihi",
+        "teReo": "Mihimihi",
+        "english": "Greetings",
+        "iconName": "hand.wave.fill",
+        "sortOrder": 1
+    },
+    {
+        "id": "whanau",
+        "teReo": "Whānau",
+        "english": "Family",
+        "iconName": "figure.2.and.child.holdinghands",
+        "sortOrder": 2
+    },
+    {
+        "id": "tinana",
+        "teReo": "Tinana",
+        "english": "Body",
+        "iconName": "figure.stand",
+        "sortOrder": 3
+    },
+    {
+        "id": "taiao",
+        "teReo": "Taiao",
+        "english": "Nature",
+        "iconName": "leaf.fill",
+        "sortOrder": 4
+    },
+    {
+        "id": "kai",
+        "teReo": "Kai",
+        "english": "Food & Drink",
+        "iconName": "fork.knife",
+        "sortOrder": 5
+    },
+    {
+        "id": "tae",
+        "teReo": "Ngā Tae",
+        "english": "Colours",
+        "iconName": "paintpalette.fill",
+        "sortOrder": 6
+    },
+    {
+        "id": "tau",
+        "teReo": "Ngā Tau",
+        "english": "Numbers",
+        "iconName": "number",
+        "sortOrder": 7
+    },
+    {
+        "id": "wa",
+        "teReo": "Te Wā",
+        "english": "Time",
+        "iconName": "clock.fill",
+        "sortOrder": 8
+    },
+    {
+        "id": "huarere",
+        "teReo": "Te Huarere",
+        "english": "Weather",
+        "iconName": "cloud.sun.fill",
+        "sortOrder": 9
+    },
+    {
+        "id": "kararehe",
+        "teReo": "Ngā Kararehe",
+        "english": "Animals",
+        "iconName": "pawprint.fill",
+        "sortOrder": 10
+    },
+    {
+        "id": "mahi",
+        "teReo": "Ngā Mahi",
+        "english": "Actions",
+        "iconName": "figure.walk",
+        "sortOrder": 11
+    },
+    {
+        "id": "kare-a-roto",
+        "teReo": "Ngā Kare ā-Roto",
+        "english": "Feelings",
+        "iconName": "heart.fill",
+        "sortOrder": 12
+    },
+    {
+        "id": "wahi",
+        "teReo": "Ngā Wāhi",
+        "english": "Places",
+        "iconName": "mappin.and.ellipse",
+        "sortOrder": 13
+    },
+    {
+        "id": "kakahu",
+        "teReo": "Ngā Kākahu",
+        "english": "Clothing",
+        "iconName": "tshirt.fill",
+        "sortOrder": 14
+    },
+    {
+        "id": "kainga",
+        "teReo": "Te Kāinga",
+        "english": "Home & Household",
+        "iconName": "house.fill",
+        "sortOrder": 15
+    }
+]
