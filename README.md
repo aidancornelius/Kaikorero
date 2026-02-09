@@ -24,6 +24,10 @@ This is a personal learning project and a proof of concept. It is not a polished
 
 The word list is modest and the app is opinionated about how it works. It's one learner's tool, not a comprehensive language course.
 
+## Installing via AltStore
+
+While this app isn't on the App Store yet, you can sideload it using [AltStore](https://altstore.io). Download the latest `Kaikorero.ipa` from the [Releases](https://github.com/aidancornelius/Kaikorero/releases) page, then open it in AltStore to install it on your device.
+
 ## Building
 
 Kaikōrero requires iOS 26+ and is built with Swift 6.2 and SwiftUI. The project uses Swift Package Manager.
