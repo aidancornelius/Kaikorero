@@ -1,6 +1,6 @@
 name: Kaikorero
 options:
-  bundleIdPrefix: com.kaikorero
+  bundleIdPrefix: nz.ursa.kaikorero
   deploymentTarget:
     iOS: "26.0"
   xcodeVersion: "26.2"
@@ -37,17 +37,25 @@ targets:
       path: Kaikorero/Kaikorero.entitlements
     settings:
       base:
+        CODE_SIGN_STYLE: Automatic
         INFOPLIST_KEY_UIApplicationSceneManifest_Generation: true
         INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents: true
         INFOPLIST_KEY_UILaunchScreen_Generation: true
         INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone: "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight"
-        PRODUCT_BUNDLE_IDENTIFIER: com.kaikorero.app
-        PRODUCT_NAME: Kaikōrero
+        INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad: "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight"
+        PRODUCT_BUNDLE_IDENTIFIER: nz.ursa.kaikorero
+        PRODUCT_NAME: Kaikorero
+        INFOPLIST_KEY_CFBundleDisplayName: Kaikōrero
         MARKETING_VERSION: "1.0.0"
         CURRENT_PROJECT_VERSION: "1"
         SWIFT_EMIT_LOC_STRINGS: true
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+      configs:
+        Debug:
+          CODE_SIGN_IDENTITY: "Apple Development"
+        Release:
+          CODE_SIGN_IDENTITY: "Apple Development"
     dependencies:
       - package: SwiftFSRS
 
@@ -58,7 +66,7 @@ targets:
       - path: KaikoreroTests
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: com.kaikorero.tests
+        PRODUCT_BUNDLE_IDENTIFIER: nz.ursa.kaikorero.tests
         GENERATE_INFOPLIST_FILE: true
     dependencies:
       - target: Kaikorero
