@@ -24,37 +24,35 @@ struct QuizSetupView: View {
                     )
 
                     ForEach(QuizType.allCases) { type in
-                        if type != .listenChoose { // Audio requires bundled files
-                            Button {
-                                quizViewModel.toggleQuizType(type)
-                            } label: {
-                                HStack {
-                                    Image(systemName: type.iconName)
-                                        .frame(width: 24)
+                        Button {
+                            quizViewModel.toggleQuizType(type)
+                        } label: {
+                            HStack {
+                                Image(systemName: type.iconName)
+                                    .frame(width: 24)
+                                    .foregroundStyle(Color.accentColor)
+
+                                VStack(alignment: .leading) {
+                                    Text(type.teReo)
+                                        .font(.subheadline)
+                                        .fontWeight(.medium)
+                                    Text(type.english)
+                                        .font(.caption)
+                                        .foregroundStyle(.secondary)
+                                }
+
+                                Spacer()
+
+                                if quizViewModel.selectedQuizTypes.contains(type) {
+                                    Image(systemName: "checkmark.circle.fill")
                                         .foregroundStyle(Color.accentColor)
-
-                                    VStack(alignment: .leading) {
-                                        Text(type.teReo)
-                                            .font(.subheadline)
-                                            .fontWeight(.medium)
-                                        Text(type.english)
-                                            .font(.caption)
-                                            .foregroundStyle(.secondary)
-                                    }
-
-                                    Spacer()
-
-                                    if quizViewModel.selectedQuizTypes.contains(type) {
-                                        Image(systemName: "checkmark.circle.fill")
-                                            .foregroundStyle(Color.accentColor)
-                                    } else {
-                                        Image(systemName: "circle")
-                                            .foregroundStyle(.secondary)
-                                    }
+                                } else {
+                                    Image(systemName: "circle")
+                                        .foregroundStyle(.secondary)
                                 }
                             }
-                            .tint(.primary)
                         }
+                        .tint(.primary)
                     }
                 }
 

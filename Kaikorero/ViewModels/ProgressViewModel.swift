@@ -38,7 +38,7 @@ final class ProgressViewModel {
         let progressDescriptor = FetchDescriptor<WordProgress>()
         let allProgress = (try? modelContext.fetch(progressDescriptor)) ?? []
 
-        totalWordsLearned = allProgress.filter { $0.repetitions > 0 }.count
+        totalWordsLearned = allProgress.count
 
         let resultsDescriptor = FetchDescriptor<QuizResult>()
         let allResults = (try? modelContext.fetch(resultsDescriptor)) ?? []
@@ -47,7 +47,8 @@ final class ProgressViewModel {
         let correctResults = allResults.filter(\.wasCorrect).count
         overallAccuracy = allResults.isEmpty ? 0 : Double(correctResults) / Double(allResults.count)
 
-        wordsToReview = allProgress.filter { srsService.isDue($0) }.count
+        // Only count words that have been reviewed before and are due again
+        wordsToReview = allProgress.filter { $0.repetitions > 0 && srsService.isDue($0) }.count
 
         currentStreak = calculateStreak(results: allResults)
     }

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "whakatauki-tangata",
+    "teReo": "He aha te mea nui o te ao? He tangata, he tangata, he tangata.",
+    "english": "What is the greatest thing in the world? It is people, it is people, it is people.",
+    "blankedText": "He aha te mea nui o te ao? He ___, he tangata, he tangata.",
+    "targetWordId": "tangata-whanau"
+  },
+  {
+    "id": "whakatauki-waka",
+    "teReo": "He waka eke noa.",
+    "english": "A canoe we are all in together — we are all in this together.",
+    "blankedText": "He ___ eke noa.",
+    "targetWordId": "waka-ingoa"
+  },
+  {
+    "id": "whakatauki-manu",
+    "teReo": "Mā te huruhuru ka rere te manu.",
+    "english": "With feathers a bird can fly — by investing in people they can succeed.",
+    "blankedText": "Mā te huruhuru ka rere te ___.",
+    "targetWordId": "manu-ingoa"
+  },
+  {
+    "id": "whakatauki-aroha",
+    "teReo": "Kia hora te marino, kia whakapapa pounamu te moana, kia tere te kārohirohi i mua i tō huarahi. Aroha atu, aroha mai.",
+    "english": "May calm spread, may the sea be like greenstone, may the shimmer of light guide your way. Give love, receive love.",
+    "blankedText": "Kia hora te marino, kia whakapapa pounamu te moana, kia tere te kārohirohi i mua i tō huarahi. ___ atu, aroha mai.",
+    "targetWordId": "aroha-ingoa"
+  },
+  {
+    "id": "whakatauki-whenua",
+    "teReo": "Whatungarongaro te tangata, toitū te whenua.",
+    "english": "People pass on, but the land remains.",
+    "blankedText": "Whatungarongaro te tangata, toitū te ___.",
+    "targetWordId": "whenua-ingoa"
+  },
+  {
+    "id": "whakatauki-korero",
+    "teReo": "He kōrero purakau, he kōrero wairua.",
+    "english": "A story told is a spirit shared.",
+    "blankedText": "He ___ purakau, he kōrero wairua.",
+    "targetWordId": "korero-kupumahi"
+  },
+  {
+    "id": "whakatauki-wai",
+    "teReo": "E kore e mimiti te puna wai o Waihī.",
+    "english": "The spring of Waihī will never run dry.",
+    "blankedText": "E kore e mimiti te puna ___ o Waihī.",
+    "targetWordId": "wai-ingoa"
+  },
+  {
+    "id": "whakatauki-moana",
+    "teReo": "He moana pukepuke e ekengia e te waka.",
+    "english": "A choppy sea can be navigated by canoe — challenges can be overcome.",
+    "blankedText": "He ___ pukepuke e ekengia e te waka.",
+    "targetWordId": "moana-ingoa"
+  },
+  {
+    "id": "whakatauki-rakau",
+    "teReo": "E kore te rākau e tū ki te kore he pakiaka.",
+    "english": "A tree cannot stand without roots.",
+    "blankedText": "E kore te ___ e tū ki te kore he pakiaka.",
+    "targetWordId": "rakau-ingoa"
+  },
+  {
+    "id": "whakatauki-kai",
+    "teReo": "He kai kei aku ringa.",
+    "english": "There is food at the end of my hands — I am self-sufficient.",
+    "blankedText": "He ___ kei aku ringa.",
+    "targetWordId": "kai-ingoa"
+  },
+  {
+    "id": "whakatauki-maunga",
+    "teReo": "Whāia te iti kahurangi; ki te tūohu koe, me he maunga teitei.",
+    "english": "Seek the treasure you value most; if you bow your head, let it be to a lofty mountain.",
+    "blankedText": "Whāia te iti kahurangi; ki te tūohu koe, me he ___ teitei.",
+    "targetWordId": "maunga-ingoa"
+  },
+  {
+    "id": "whakatauki-whanau",
+    "teReo": "Ehara taku toa i te toa takitahi, engari he toa takitini.",
+    "english": "My strength is not mine alone, but the strength of many — it takes a village.",
+    "blankedText": "Ehara taku toa i te toa takitahi, engari he toa takitini.",
+    "targetWordId": "whanau-ingoa"
+  },
+  {
+    "id": "whakatauki-awa",
+    "teReo": "E rere ana te awa, e kore e hoki mai.",
+    "english": "The river flows on and never returns — time does not come back.",
+    "blankedText": "E rere ana te ___, e kore e hoki mai.",
+    "targetWordId": "awa-ingoa"
+  },
+  {
+    "id": "whakatauki-ra",
+    "teReo": "Āpiti hono, tātai hono, ka rere te karanga a te rā.",
+    "english": "Join together, weave together, the call of the day rings out.",
+    "blankedText": "Āpiti hono, tātai hono, ka rere te karanga a te ___.",
+    "targetWordId": "ra-ingoa"
+  }
+]

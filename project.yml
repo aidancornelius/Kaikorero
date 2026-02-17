@@ -1,6 +1,6 @@
 name: Kaikorero
 options:
-  bundleIdPrefix: nz.ursa.kaikorero
+  bundleIdPrefix: nz.ursa
   deploymentTarget:
     iOS: "26.0"
   xcodeVersion: "26.2"
@@ -8,11 +8,17 @@ options:
   generateEmptyDirectories: true
   groupSortPosition: top
 
+fileGroups:
+  - Kaikorero/Kaikorero.entitlements
+  - Kaikorero/Resources/PrivacyInfo.xcprivacy
+
 settings:
   base:
     DEVELOPMENT_TEAM: HK6R36PLNR
     SWIFT_VERSION: "6.2"
     GENERATE_INFOPLIST_FILE: true
+    SWIFT_STRICT_CONCURRENCY: complete
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
 
 packages:
   SwiftFSRS:
@@ -33,8 +39,21 @@ targets:
       - path: Kaikorero/Resources/Audio
         excludes:
           - .gitkeep
+      - path: Kaikorero/Resources/PrivacyInfo.xcprivacy
+    info:
+      path: Kaikorero/Info.plist
+      properties:
+        UIBackgroundModes:
+          - remote-notification
     entitlements:
       path: Kaikorero/Kaikorero.entitlements
+      properties:
+        aps-environment: development
+        com.apple.developer.icloud-container-identifiers:
+          - iCloud.com.cornelius-bell.kaikorero
+        com.apple.developer.icloud-services:
+          - CloudKit
+        com.apple.developer.ubiquity-kvstore-identifier: $(TeamIdentifierPrefix)$(CFBundleIdentifier)
     settings:
       base:
         CODE_SIGN_STYLE: Automatic
@@ -46,16 +65,12 @@ targets:
         PRODUCT_BUNDLE_IDENTIFIER: nz.ursa.kaikorero
         PRODUCT_NAME: Kaikorero
         INFOPLIST_KEY_CFBundleDisplayName: Kaikōrero
+        INFOPLIST_KEY_LSApplicationCategoryType: "public.app-category.education"
         MARKETING_VERSION: "1.0.0"
         CURRENT_PROJECT_VERSION: "1"
         SWIFT_EMIT_LOC_STRINGS: true
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
-      configs:
-        Debug:
-          CODE_SIGN_IDENTITY: "Apple Development"
-        Release:
-          CODE_SIGN_IDENTITY: "Apple Development"
     dependencies:
       - package: SwiftFSRS
 

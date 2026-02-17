@@ -1,0 +1,277 @@
+[
+  {
+    "id": "tau-1-10",
+    "teReo": "Ngā Tau 1–10",
+    "english": "Numbers 1–10",
+    "category": "tau",
+    "categoryTeReo": "Ngā Tau",
+    "categoryEnglish": "Numbers",
+    "iconName": "1.circle.fill",
+    "sortOrder": 1,
+    "wordIds": [
+      "tahi-tuke", "rua-tuke", "toru-tuke", "wha-tuke", "rima-tuke",
+      "ono-tuke", "whitu-tuke", "waru-tuke", "iwa-tuke", "tekau-tuke"
+    ]
+  },
+  {
+    "id": "tau-11-20",
+    "teReo": "Ngā Tau 11–20",
+    "english": "Numbers 11–20",
+    "category": "tau",
+    "categoryTeReo": "Ngā Tau",
+    "categoryEnglish": "Numbers",
+    "iconName": "2.circle.fill",
+    "sortOrder": 2,
+    "wordIds": [
+      "tekau-ma-tahi-tuke", "tekau-ma-rua-tuke", "tekau-ma-toru-tuke",
+      "tekau-ma-wha-tuke", "tekau-ma-rima-tuke", "tekau-ma-ono-tuke",
+      "tekau-ma-whitu-tuke", "tekau-ma-waru-tuke", "tekau-ma-iwa-tuke",
+      "rua-tekau-tuke"
+    ]
+  },
+  {
+    "id": "tau-20-30",
+    "teReo": "Ngā Tau 20–30",
+    "english": "Numbers 20–30",
+    "category": "tau",
+    "categoryTeReo": "Ngā Tau",
+    "categoryEnglish": "Numbers",
+    "iconName": "3.circle.fill",
+    "sortOrder": 3,
+    "wordIds": [
+      "rua-tekau-tuke", "rua-tekau-ma-tahi-tuke", "rua-tekau-ma-rima-tuke",
+      "toru-tekau-tuke", "toru-tekau-ma-tahi-tuke"
+    ]
+  },
+  {
+    "id": "tau-tekau",
+    "teReo": "Ngā Tekau",
+    "english": "The Tens (10–90)",
+    "category": "tau",
+    "categoryTeReo": "Ngā Tau",
+    "categoryEnglish": "Numbers",
+    "iconName": "number.circle.fill",
+    "sortOrder": 4,
+    "wordIds": [
+      "tekau-tuke", "rua-tekau-tuke", "toru-tekau-tuke", "wha-tekau-tuke",
+      "rima-tekau-tuke", "ono-tekau-tuke", "whitu-tekau-tuke",
+      "waru-tekau-tuke", "iwa-tekau-tuke"
+    ]
+  },
+  {
+    "id": "tau-rau",
+    "teReo": "Ngā Rau",
+    "english": "Hundreds",
+    "category": "tau",
+    "categoryTeReo": "Ngā Tau",
+    "categoryEnglish": "Numbers",
+    "iconName": "number.square.fill",
+    "sortOrder": 5,
+    "wordIds": [
+      "rau-tuke", "e-rua-rau-tuke", "e-toru-rau-tuke", "e-rima-rau-tuke"
+    ]
+  },
+  {
+    "id": "tau-mano",
+    "teReo": "Ngā Mano",
+    "english": "Thousands",
+    "category": "tau",
+    "categoryTeReo": "Ngā Tau",
+    "categoryEnglish": "Numbers",
+    "iconName": "number.square",
+    "sortOrder": 6,
+    "wordIds": [
+      "mano-tuke", "e-rua-mano-tuke", "e-toru-mano-tuke", "tekau-mano-tuke"
+    ]
+  },
+  {
+    "id": "wa-ra",
+    "teReo": "Ngā Rā o te Wiki",
+    "english": "Days of the Week",
+    "category": "wa",
+    "categoryTeReo": "Te Wā",
+    "categoryEnglish": "Time",
+    "iconName": "calendar",
+    "sortOrder": 7,
+    "wordIds": [
+      "rahina-ingoa", "ratu-ingoa", "raapa-ingoa", "rapare-ingoa",
+      "ramere-ingoa", "rahoroi-ingoa", "ratapu-ingoa"
+    ]
+  },
+  {
+    "id": "wa-marama",
+    "teReo": "Ngā Marama",
+    "english": "Months of the Year",
+    "category": "wa",
+    "categoryTeReo": "Te Wā",
+    "categoryEnglish": "Time",
+    "iconName": "calendar.badge.clock",
+    "sortOrder": 8,
+    "wordIds": [
+      "kohitatea-ingoa", "hui-tanguru-ingoa", "poutu-te-rangi-ingoa",
+      "paenga-whawha-ingoa", "haratua-ingoa", "pipiri-ingoa",
+      "hongongoi-ingoa", "here-turi-koka-ingoa", "mahuru-ingoa",
+      "whiringa-a-nuku-ingoa", "whiringa-a-rangi-ingoa", "hakihea-ingoa"
+    ]
+  },
+  {
+    "id": "wa-ahua",
+    "teReo": "Ngā Āhua o te Tau",
+    "english": "Seasons",
+    "category": "wa",
+    "categoryTeReo": "Te Wā",
+    "categoryEnglish": "Time",
+    "iconName": "leaf.arrow.circlepath",
+    "sortOrder": 9,
+    "wordIds": [
+      "koanga-ingoa", "raumati-ingoa", "ngahuru-ingoa", "hotoke-ingoa"
+    ]
+  },
+  {
+    "id": "wa-kupu",
+    "teReo": "Te Wā",
+    "english": "General Time Words",
+    "category": "wa",
+    "categoryTeReo": "Te Wā",
+    "categoryEnglish": "Time",
+    "iconName": "clock.fill",
+    "sortOrder": 10,
+    "wordIds": [
+      "wiki-ingoa", "tau-ingoa", "ata-ingoa", "ahiahi-ingoa", "po-ingoa",
+      "apopo-tuke", "inanahi-tuke", "inaianei-tuke", "haora-ingoa", "meneti-ingoa"
+    ]
+  },
+  {
+    "id": "wetereo-tuahua",
+    "teReo": "Ngā Tūāhua",
+    "english": "Articles (the, a, some)",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "textformat.abc",
+    "sortOrder": 11,
+    "wordIds": [
+      "te-tuke", "nga-tuke", "he-tuke", "tetahi-tuke"
+    ]
+  },
+  {
+    "id": "wetereo-tuwahi",
+    "teReo": "Ngā Kupu Tūwāhi",
+    "english": "Locatives & Prepositions",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "arrow.triangle.branch",
+    "sortOrder": 12,
+    "wordIds": [
+      "ki-tuke", "i-tuke", "kei-tuke", "hei-tuke", "ko-tuke",
+      "no-tuke", "na-tuke", "mo-tuke", "ma-tuke"
+    ]
+  },
+  {
+    "id": "wetereo-tuingoa-takitahi",
+    "teReo": "Ngā Tūingoa Takitahi",
+    "english": "Singular Pronouns",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "person.fill",
+    "sortOrder": 13,
+    "wordIds": [
+      "au-tuke", "koe-tuke", "ia-tuke"
+    ]
+  },
+  {
+    "id": "wetereo-tuingoa-taurua",
+    "teReo": "Ngā Tūingoa Taurua",
+    "english": "Dual Pronouns (Two People)",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "person.2.fill",
+    "sortOrder": 14,
+    "wordIds": [
+      "maua-tuke", "taua-tuke", "korua-tuke", "raua-tuke"
+    ]
+  },
+  {
+    "id": "wetereo-tuingoa-taurahi",
+    "teReo": "Ngā Tūingoa Taurahi",
+    "english": "Plural Pronouns (Three+)",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "person.3.fill",
+    "sortOrder": 15,
+    "wordIds": [
+      "matou-tuke", "tatou-tuke", "koutou-tuke", "ratou-tuke"
+    ]
+  },
+  {
+    "id": "wetereo-taurahi",
+    "teReo": "Ngā Taurahi",
+    "english": "Plurals (Irregular Forms)",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "arrow.2.squarepath",
+    "sortOrder": 16,
+    "wordIds": [
+      "tangata-whanau", "tamaiti-ingoa", "wahine-ingoa", "matua-ingoa"
+    ]
+  },
+  {
+    "id": "wetereo-mo-ma",
+    "teReo": "Mō / Mā + Tūingoa",
+    "english": "For (me, you, him/her, us)",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "gift.fill",
+    "sortOrder": 17,
+    "wordIds": [
+      "moku-tuke", "mau-tuke", "mona-tuke", "mo-tatou-tuke"
+    ]
+  },
+  {
+    "id": "wetereo-no-na",
+    "teReo": "Nō / Nā + Tūingoa",
+    "english": "Belonging to (me, you, him/her)",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "hand.raised.fill",
+    "sortOrder": 18,
+    "wordIds": [
+      "noku-tuke", "nau-tuke", "nona-tuke"
+    ]
+  },
+  {
+    "id": "wetereo-ki-a",
+    "teReo": "Ki a / I a + Tūingoa",
+    "english": "To/From (me, you, him/her)",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "arrow.right.arrow.left",
+    "sortOrder": 19,
+    "wordIds": [
+      "ki-a-au-tuke", "ki-a-koe-tuke", "ki-a-ia-tuke",
+      "i-a-au-tuke", "i-a-koe-tuke"
+    ]
+  },
+  {
+    "id": "wetereo-wahi",
+    "teReo": "Ngā Kupu Wāhi",
+    "english": "Spatial Words (near, far, in, out, up, down)",
+    "category": "wetereo",
+    "categoryTeReo": "Te Wetereo",
+    "categoryEnglish": "Grammar",
+    "iconName": "arrow.up.and.down.and.arrow.left.and.right",
+    "sortOrder": 20,
+    "wordIds": [
+      "tata-ahua", "tawhiti-ahua", "roto-ingoa", "waho-ingoa",
+      "runga-ingoa", "raro-ingoa", "mua-ingoa", "muri-ingoa"
+    ]
+  }
+]

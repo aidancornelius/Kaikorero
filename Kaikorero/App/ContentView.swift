@@ -39,6 +39,14 @@ struct ContentView: View {
                         QuizSetupView(quizViewModel: quizVM, audioViewModel: audioVM)
                     }
 
+                    Tab("Ngā Kete", systemImage: "tray.2.fill") {
+                        QuizPackBrowserView(
+                            wordDataService: wordDataService,
+                            quizViewModel: quizVM,
+                            audioViewModel: audioVM
+                        )
+                    }
+
                     Tab("Kauneke", systemImage: "chart.bar.fill") {
                         ProgressDashboardView(progressViewModel: progressVM)
                     }

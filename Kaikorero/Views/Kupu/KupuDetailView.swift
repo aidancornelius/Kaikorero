@@ -11,6 +11,7 @@ import SwiftUI
 struct KupuDetailView: View {
     let word: WordEntry
     let audioViewModel: AudioViewModel
+    var wordListViewModel: WordListViewModel?
 
     var body: some View {
         ScrollView {
@@ -74,6 +75,16 @@ struct KupuDetailView: View {
                     }
                 }
 
+                // Plural form
+                if let plural = word.pluralForm {
+                    VStack(alignment: .leading, spacing: 8) {
+                        sectionHeader(teReo: "Taurahi", english: "Plural")
+
+                        Text(plural)
+                            .font(.title3)
+                    }
+                }
+
                 // Notes
                 if let notes = word.notes {
                     VStack(alignment: .leading, spacing: 8) {
@@ -90,6 +101,25 @@ struct KupuDetailView: View {
         #if os(iOS)
         .navigationBarTitleDisplayMode(.inline)
         #endif
+        .toolbar {
+            if let vm = wordListViewModel {
+                ToolbarItem(placement: .primaryAction) {
+                    Button {
+                        if vm.isWordAdded(word.id) {
+                            vm.removeWord(word.id)
+                        } else {
+                            vm.addWord(word)
+                        }
+                    } label: {
+                        if vm.isWordAdded(word.id) {
+                            Label("Tango", systemImage: "checkmark.circle.fill")
+                        } else {
+                            Label("Tāpiri", systemImage: "plus.circle")
+                        }
+                    }
+                }
+            }
+        }
     }
 
     private func sectionHeader(teReo: String, english: String) -> some View {

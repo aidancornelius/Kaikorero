@@ -20,4 +20,23 @@ struct WordEntry: Codable, Identifiable, Sendable, Hashable {
     let notes: String?
     let topic: String
     let difficulty: Int
+    let pluralForm: String?
+    let sentenceAudioFileName: String?
+
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        id = try container.decode(String.self, forKey: .id)
+        teReo = try container.decode(String.self, forKey: .teReo)
+        english = try container.decode(String.self, forKey: .english)
+        alternativeTranslations = try container.decode([String].self, forKey: .alternativeTranslations)
+        partOfSpeech = try container.decode(String.self, forKey: .partOfSpeech)
+        exampleSentence = try container.decodeIfPresent(String.self, forKey: .exampleSentence)
+        exampleTranslation = try container.decodeIfPresent(String.self, forKey: .exampleTranslation)
+        audioFileName = try container.decodeIfPresent(String.self, forKey: .audioFileName)
+        notes = try container.decodeIfPresent(String.self, forKey: .notes)
+        topic = try container.decode(String.self, forKey: .topic)
+        difficulty = try container.decode(Int.self, forKey: .difficulty)
+        pluralForm = try container.decodeIfPresent(String.self, forKey: .pluralForm)
+        sentenceAudioFileName = try container.decodeIfPresent(String.self, forKey: .sentenceAudioFileName)
+    }
 }

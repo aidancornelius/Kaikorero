@@ -14,7 +14,8 @@
     "audioFileName": "kia-ora.m4a",
     "notes": "The most widely known Māori greeting. Can also express gratitude.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kia-ora-rerenga.m4a"
   },
   {
     "id": "tena-koe-tuke",
@@ -29,7 +30,8 @@
     "audioFileName": "tena-koe.m4a",
     "notes": "Formal greeting to one person. 'Koe' is the singular second-person pronoun.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tena-koe-rerenga.m4a"
   },
   {
     "id": "tena-korua-tuke",
@@ -44,7 +46,8 @@
     "audioFileName": "tena-korua.m4a",
     "notes": "Formal greeting to two people. 'Kōrua' is the dual second-person pronoun.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tena-korua-rerenga.m4a"
   },
   {
     "id": "tena-koutou-tuke",
@@ -59,7 +62,8 @@
     "audioFileName": "tena-koutou.m4a",
     "notes": "Formal greeting to three or more people. Often repeated three times for emphasis.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tena-koutou-rerenga.m4a"
   },
   {
     "id": "morena-tuke",
@@ -74,7 +78,8 @@
     "audioFileName": "morena.m4a",
     "notes": "A loanword-influenced greeting used widely in everyday te reo Māori.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "morena-rerenga.m4a"
   },
   {
     "id": "haere-ra-tuke",
@@ -90,7 +95,8 @@
     "audioFileName": "haere-ra.m4a",
     "notes": "Said by the person staying to the person departing.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "haere-ra-rerenga.m4a"
   },
   {
     "id": "ka-kite-tuke",
@@ -106,7 +112,8 @@
     "audioFileName": "ka-kite.m4a",
     "notes": "Short form of 'ka kite anō' (see you again). Casual farewell.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ka-kite-rerenga.m4a"
   },
   {
     "id": "nau-mai-tuke",
@@ -121,7 +128,8 @@
     "audioFileName": "nau-mai.m4a",
     "notes": "Often paired with 'haere mai' for emphasis: nau mai, haere mai.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "nau-mai-rerenga.m4a"
   },
   {
     "id": "haere-mai-tuke",
@@ -136,7 +144,8 @@
     "audioFileName": "haere-mai.m4a",
     "notes": "A very common welcoming expression, used across Aotearoa.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "haere-mai-rerenga.m4a"
   },
   {
     "id": "hei-kona-tuke",
@@ -152,7 +161,8 @@
     "audioFileName": "hei-kona.m4a",
     "notes": "Said by the person leaving to those who are staying behind.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hei-kona-rerenga.m4a"
   },
   {
     "id": "mauri-ora-tuke",
@@ -168,7 +178,8 @@
     "audioFileName": "mauri-ora.m4a",
     "notes": "A greeting that acknowledges the mauri (life force) of others.",
     "topic": "mihimihi",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "mauri-ora-rerenga.m4a"
   },
   {
     "id": "ata-marie-tuke",
@@ -183,7 +194,8 @@
     "audioFileName": "ata-marie.m4a",
     "notes": "A gentle morning greeting invoking peacefulness.",
     "topic": "mihimihi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ata-marie-rerenga.m4a"
   },
   {
     "id": "whanau-ingoa",
@@ -199,7 +211,8 @@
     "audioFileName": "whanau.m4a",
     "notes": "A central concept in Māori society encompassing extended family and community.",
     "topic": "whanau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "whanau-rerenga.m4a"
   },
   {
     "id": "mama-ingoa",
@@ -215,7 +228,8 @@
     "audioFileName": "mama.m4a",
     "notes": null,
     "topic": "whanau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mama-rerenga.m4a"
   },
   {
     "id": "papa-ingoa",
@@ -231,7 +245,8 @@
     "audioFileName": "papa.m4a",
     "notes": null,
     "topic": "whanau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "papa-rerenga.m4a"
   },
   {
     "id": "tuakana-ingoa",
@@ -247,7 +262,8 @@
     "audioFileName": "tuakana.m4a",
     "notes": "Refers to an older sibling of the same gender. Part of the tuakana-teina relationship.",
     "topic": "whanau",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "tuakana-rerenga.m4a"
   },
   {
     "id": "teina-ingoa",
@@ -263,7 +279,8 @@
     "audioFileName": "teina.m4a",
     "notes": "Refers to a younger sibling of the same gender. The teina learns from the tuakana.",
     "topic": "whanau",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "teina-rerenga.m4a"
   },
   {
     "id": "mokopuna-ingoa",
@@ -279,7 +296,8 @@
     "audioFileName": "mokopuna.m4a",
     "notes": "Can refer to grandchildren and further descendants.",
     "topic": "whanau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mokopuna-rerenga.m4a"
   },
   {
     "id": "kuia-ingoa",
@@ -295,7 +313,8 @@
     "audioFileName": "kuia.m4a",
     "notes": "A term of respect for an elderly woman or grandmother.",
     "topic": "whanau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kuia-rerenga.m4a"
   },
   {
     "id": "koroua-ingoa",
@@ -311,7 +330,8 @@
     "audioFileName": "koroua.m4a",
     "notes": "A term of respect for an elderly man or grandfather.",
     "topic": "whanau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "koroua-rerenga.m4a"
   },
   {
     "id": "tane-ingoa",
@@ -327,7 +347,8 @@
     "audioFileName": "tane.m4a",
     "notes": "Also the name of Tāne-mahuta, the atua of forests and birds.",
     "topic": "whanau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tane-rerenga.m4a"
   },
   {
     "id": "wahine-ingoa",
@@ -343,7 +364,9 @@
     "audioFileName": "wahine.m4a",
     "notes": "Plural form is 'wāhine'.",
     "topic": "whanau",
-    "difficulty": 1
+    "difficulty": 1,
+    "pluralForm": "wāhine",
+    "sentenceAudioFileName": "wahine-rerenga.m4a"
   },
   {
     "id": "mahunga-ingoa",
@@ -358,7 +381,8 @@
     "audioFileName": "mahunga.m4a",
     "notes": "The head is considered tapu (sacred) in Māori culture.",
     "topic": "tinana",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mahunga-rerenga.m4a"
   },
   {
     "id": "kanohi-ingoa",
@@ -910,7 +934,8 @@
     "audioFileName": "mangu.m4a",
     "notes": null,
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mangu-rerenga.m4a"
   },
   {
     "id": "parauri-ahua",
@@ -925,7 +950,8 @@
     "audioFileName": "parauri.m4a",
     "notes": null,
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "parauri-rerenga.m4a"
   },
   {
     "id": "karaka-ahua",
@@ -940,7 +966,8 @@
     "audioFileName": "karaka.m4a",
     "notes": "Also the name of the native karaka tree (Corynocarpus laevigatus).",
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "karaka-rerenga.m4a"
   },
   {
     "id": "waiporoporo-ahua",
@@ -955,7 +982,8 @@
     "audioFileName": "waiporoporo.m4a",
     "notes": "Also the name of the native poroporo plant (Solanum aviculare), which has purple flowers.",
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "waiporoporo-rerenga.m4a"
   },
   {
     "id": "kiwikiwi-ahua",
@@ -970,7 +998,8 @@
     "audioFileName": "kiwikiwi.m4a",
     "notes": null,
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kiwikiwi-rerenga.m4a"
   },
   {
     "id": "mawhero-ahua",
@@ -985,7 +1014,8 @@
     "audioFileName": "mawhero.m4a",
     "notes": "From 'mā' (white) and 'whero' (red), literally 'whitish-red'.",
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mawhero-rerenga.m4a"
   },
   {
     "id": "kahurangi-ahua",
@@ -1002,7 +1032,8 @@
     "audioFileName": "kahurangi.m4a",
     "notes": "Also means 'precious' or 'esteemed'. Used in the name of pounamu (greenstone) variety 'kahurangi'.",
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kahurangi-rerenga.m4a"
   },
   {
     "id": "tahi-tuke",
@@ -1018,7 +1049,8 @@
     "audioFileName": "tahi.m4a",
     "notes": "'Kotahi' is the form used when counting things. 'Tahi' is used when counting in sequence.",
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tahi-rerenga.m4a"
   },
   {
     "id": "rua-tuke",
@@ -1034,7 +1066,8 @@
     "audioFileName": "rua.m4a",
     "notes": "Also means 'hole' or 'pit' as a noun. Context determines the meaning.",
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "rua-rerenga.m4a"
   },
   {
     "id": "toru-tuke",
@@ -1047,7 +1080,8 @@
     "audioFileName": "toru.m4a",
     "notes": null,
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "toru-rerenga.m4a"
   },
   {
     "id": "wha-tuke",
@@ -1060,7 +1094,8 @@
     "audioFileName": "wha.m4a",
     "notes": null,
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "wha-rerenga.m4a"
   },
   {
     "id": "rima-tuke",
@@ -1075,7 +1110,8 @@
     "audioFileName": "rima.m4a",
     "notes": "Also means 'hand', reflecting the five fingers.",
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "rima-rerenga.m4a"
   },
   {
     "id": "ono-tuke",
@@ -1088,7 +1124,8 @@
     "audioFileName": "ono.m4a",
     "notes": null,
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ono-rerenga.m4a"
   },
   {
     "id": "whitu-tuke",
@@ -1101,7 +1138,8 @@
     "audioFileName": "whitu.m4a",
     "notes": null,
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "whitu-rerenga.m4a"
   },
   {
     "id": "waru-tuke",
@@ -1116,7 +1154,8 @@
     "audioFileName": "waru.m4a",
     "notes": null,
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "waru-rerenga.m4a"
   },
   {
     "id": "iwa-tuke",
@@ -1129,7 +1168,8 @@
     "audioFileName": "iwa.m4a",
     "notes": "Matariki (the Pleiades) is sometimes said to have nine stars visible.",
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "iwa-rerenga.m4a"
   },
   {
     "id": "tekau-tuke",
@@ -1144,7 +1184,8 @@
     "audioFileName": "tekau.m4a",
     "notes": "'Ngahuru' is an older word for ten, still used in some dialects.",
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-rerenga.m4a"
   },
   {
     "id": "rau-tuke",
@@ -1160,7 +1201,8 @@
     "audioFileName": "rau.m4a",
     "notes": "Also means 'leaf'. 'Kotahi rau' = one hundred, 'e rua rau' = two hundred.",
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "rau-rerenga.m4a"
   },
   {
     "id": "mano-tuke",
@@ -1175,7 +1217,8 @@
     "audioFileName": "mano.m4a",
     "notes": "Can also mean 'a great number' in general.",
     "topic": "tau",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mano-rerenga.m4a"
   },
   {
     "id": "wiki-ingoa",
@@ -1188,7 +1231,8 @@
     "audioFileName": "wiki.m4a",
     "notes": "A transliteration from English 'week'.",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "wiki-rerenga.m4a"
   },
   {
     "id": "tau-ingoa",
@@ -1205,7 +1249,8 @@
     "audioFileName": "tau.m4a",
     "notes": "Also means 'number', 'beloved', or 'to settle'. Context determines meaning.",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tau-rerenga.m4a"
   },
   {
     "id": "ata-ingoa",
@@ -1221,7 +1266,8 @@
     "audioFileName": "ata.m4a",
     "notes": "Also means 'carefully' as an adverb, as in 'ata mārie' (peaceful morning).",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ata-rerenga.m4a"
   },
   {
     "id": "ahiahi-ingoa",
@@ -1237,7 +1283,8 @@
     "audioFileName": "ahiahi.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ahiahi-rerenga.m4a"
   },
   {
     "id": "po-ingoa",
@@ -1253,7 +1300,8 @@
     "audioFileName": "po.m4a",
     "notes": "Te Pō is also a concept in Māori cosmology referring to the realm of darkness and the spirit world.",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "po-rerenga.m4a"
   },
   {
     "id": "apopo-tuke",
@@ -1268,7 +1316,8 @@
     "audioFileName": "apopo.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "apopo-rerenga.m4a"
   },
   {
     "id": "inanahi-tuke",
@@ -1283,7 +1332,8 @@
     "audioFileName": "inanahi.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "inanahi-rerenga.m4a"
   },
   {
     "id": "inaianei-tuke",
@@ -1299,7 +1349,8 @@
     "audioFileName": "inaianei.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "inaianei-rerenga.m4a"
   },
   {
     "id": "haora-ingoa",
@@ -1315,7 +1366,8 @@
     "audioFileName": "haora.m4a",
     "notes": "A transliteration from English 'hour'. Used when telling the time.",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "haora-rerenga.m4a"
   },
   {
     "id": "meneti-ingoa",
@@ -1330,7 +1382,8 @@
     "audioFileName": "meneti.m4a",
     "notes": "A transliteration from English 'minute'.",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "meneti-rerenga.m4a"
   },
   {
     "id": "hau-ingoa",
@@ -1346,7 +1399,8 @@
     "audioFileName": "hau.m4a",
     "notes": "Also carries a deep spiritual meaning: 'hau' can refer to the vital essence or spirit of a person or gift.",
     "topic": "huarere",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hau-rerenga.m4a"
   },
   {
     "id": "hukarere-ingoa",
@@ -1361,7 +1415,8 @@
     "audioFileName": "hukarere.m4a",
     "notes": "From 'huka' (frost/foam) and 'rere' (to fly/fall). Literally 'flying frost'.",
     "topic": "huarere",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "hukarere-rerenga.m4a"
   },
   {
     "id": "huka-ingoa",
@@ -1378,7 +1433,8 @@
     "audioFileName": "huka.m4a",
     "notes": "Can also mean 'foam' or 'froth'. Also used for 'sugar' (huka).",
     "topic": "huarere",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "huka-rerenga.m4a"
   },
   {
     "id": "aniwaniwa-ingoa",
@@ -1393,7 +1449,8 @@
     "audioFileName": "aniwaniwa.m4a",
     "notes": "Rainbows hold spiritual significance in Māori tradition and can be seen as signs from the atua.",
     "topic": "huarere",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "aniwaniwa-rerenga.m4a"
   },
   {
     "id": "uira-ingoa",
@@ -1408,7 +1465,8 @@
     "audioFileName": "uira.m4a",
     "notes": "Associated with Tāwhirimātea, the atua of weather and storms.",
     "topic": "huarere",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "uira-rerenga.m4a"
   },
   {
     "id": "whatitiri-ingoa",
@@ -1423,7 +1481,8 @@
     "audioFileName": "whatitiri.m4a",
     "notes": "Whaitiri is also an important ancestress in Māori mythology, grandmother of Tāwhaki.",
     "topic": "huarere",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "whatitiri-rerenga.m4a"
   },
   {
     "id": "kohu-ingoa",
@@ -1439,7 +1498,8 @@
     "audioFileName": "kohu.m4a",
     "notes": null,
     "topic": "huarere",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kohu-rerenga.m4a"
   },
   {
     "id": "makariri-ahua",
@@ -1456,7 +1516,8 @@
     "audioFileName": "makariri.m4a",
     "notes": "Can function as a noun (the cold) or an adjective (cold). Also used to refer to winter.",
     "topic": "huarere",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "makariri-rerenga.m4a"
   },
   {
     "id": "wera-ahua",
@@ -1473,7 +1534,8 @@
     "audioFileName": "wera.m4a",
     "notes": "Can also mean 'burnt' when referring to food or skin.",
     "topic": "huarere",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "wera-rerenga.m4a"
   },
   {
     "id": "kuri-ingoa",
@@ -1488,7 +1550,8 @@
     "audioFileName": "kuri.m4a",
     "notes": "The kurī was the Polynesian dog brought to Aotearoa by early Māori settlers. It is now extinct.",
     "topic": "kararehe",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kuri-rerenga.m4a"
   },
   {
     "id": "ngeru-ingoa",
@@ -1503,7 +1566,8 @@
     "audioFileName": "ngeru.m4a",
     "notes": null,
     "topic": "kararehe",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ngeru-rerenga.m4a"
   },
   {
     "id": "kau-ingoa",
@@ -1518,7 +1582,8 @@
     "audioFileName": "kau.m4a",
     "notes": "Introduced to Aotearoa by European settlers.",
     "topic": "kararehe",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kau-rerenga.m4a"
   },
   {
     "id": "hipi-ingoa",
@@ -1533,7 +1598,8 @@
     "audioFileName": "hipi.m4a",
     "notes": "A transliteration from English 'sheep'. Introduced by European settlers.",
     "topic": "kararehe",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hipi-rerenga.m4a"
   },
   {
     "id": "hoiho-ingoa",
@@ -1548,7 +1614,8 @@
     "audioFileName": "hoiho.m4a",
     "notes": "A transliteration from English. Horses were highly valued by Māori in the 19th century.",
     "topic": "kararehe",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hoiho-rerenga.m4a"
   },
   {
     "id": "manu-ingoa",
@@ -1564,7 +1631,8 @@
     "audioFileName": "manu.m4a",
     "notes": "Birds are taonga (treasures) under the guardianship of Tāne-mahuta, atua of forests and birds.",
     "topic": "kararehe",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "manu-rerenga.m4a"
   },
   {
     "id": "kiwi-ingoa",
@@ -1579,7 +1647,8 @@
     "audioFileName": "kiwi.m4a",
     "notes": "The kiwi is a national symbol of Aotearoa New Zealand. It is a flightless, nocturnal bird found nowhere else in the world.",
     "topic": "kararehe",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kiwi-rerenga.m4a"
   },
   {
     "id": "weka-ingoa",
@@ -1594,7 +1663,8 @@
     "audioFileName": "weka.m4a",
     "notes": "A flightless native bird known for being bold and curious. Weka were an important food source for Māori.",
     "topic": "kararehe",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "weka-rerenga.m4a"
   },
   {
     "id": "wheke-ingoa",
@@ -1609,7 +1679,8 @@
     "audioFileName": "wheke.m4a",
     "notes": "Te Wheke is a model used in Māori health representing the eight tentacles as dimensions of wellbeing.",
     "topic": "kararehe",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "wheke-rerenga.m4a"
   },
   {
     "id": "tohora-ingoa",
@@ -1624,7 +1695,8 @@
     "audioFileName": "tohora.m4a",
     "notes": "Whales are considered taonga and are associated with many iwi. Whale strandings are significant cultural events.",
     "topic": "kararehe",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tohora-rerenga.m4a"
   },
   {
     "id": "taniwha-ingoa",
@@ -1640,7 +1712,8 @@
     "audioFileName": "taniwha.m4a",
     "notes": "Taniwha are supernatural beings that live in deep pools, rivers, and the sea. They can be guardians (kaitiaki) or dangerous.",
     "topic": "kararehe",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "taniwha-rerenga.m4a"
   },
   {
     "id": "haere-kupumahi",
@@ -1657,7 +1730,8 @@
     "audioFileName": "haere.m4a",
     "notes": "One of the most common verbs in te reo Māori. Also used in 'haere mai' (welcome) and 'haere rā' (goodbye).",
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "haere-rerenga.m4a"
   },
   {
     "id": "inu-kupumahi",
@@ -1672,7 +1746,8 @@
     "audioFileName": "inu.m4a",
     "notes": null,
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "inu-rerenga.m4a"
   },
   {
     "id": "moe-kupumahi",
@@ -1688,7 +1763,8 @@
     "audioFileName": "moe.m4a",
     "notes": "Also used in 'moemoeā' (dream/vision).",
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "moe-rerenga.m4a"
   },
   {
     "id": "noho-kupumahi",
@@ -1705,7 +1781,8 @@
     "audioFileName": "noho.m4a",
     "notes": "A versatile verb that can mean 'sit', 'stay', 'live', or 'remain'.",
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "noho-rerenga.m4a"
   },
   {
     "id": "tu-kupumahi",
@@ -1721,7 +1798,8 @@
     "audioFileName": "tu.m4a",
     "notes": "Tūmatauenga (Tū) is the atua of war and people. 'Tū' conveys strength and resolve.",
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tu-rerenga.m4a"
   },
   {
     "id": "oma-kupumahi",
@@ -1737,7 +1815,8 @@
     "audioFileName": "oma.m4a",
     "notes": null,
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "oma-rerenga.m4a"
   },
   {
     "id": "korero-kupumahi",
@@ -1754,7 +1833,8 @@
     "audioFileName": "korero.m4a",
     "notes": "Can function as both a verb (to speak) and a noun (story, narrative). Central to oral tradition.",
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "korero-rerenga.m4a"
   },
   {
     "id": "panui-kupumahi",
@@ -1770,7 +1850,8 @@
     "audioFileName": "panui.m4a",
     "notes": "Can also be a noun meaning 'notice' or 'announcement'.",
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "panui-rerenga.m4a"
   },
   {
     "id": "tuhituhi-kupumahi",
@@ -1786,7 +1867,8 @@
     "audioFileName": "tuhituhi.m4a",
     "notes": "A reduplicated form of 'tuhi' (to draw/mark).",
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tuhituhi-rerenga.m4a"
   },
   {
     "id": "waiata-kupumahi",
@@ -1803,7 +1885,8 @@
     "audioFileName": "waiata.m4a",
     "notes": "Waiata are an integral part of Māori culture, used in ceremonies, celebrations, and to express emotion.",
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "waiata-rerenga.m4a"
   },
   {
     "id": "kanikani-kupumahi",
@@ -1819,7 +1902,8 @@
     "audioFileName": "kanikani.m4a",
     "notes": "Distinct from traditional Māori performing arts like haka and poi.",
     "topic": "mahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kanikani-rerenga.m4a"
   },
   {
     "id": "hari-ahua",
@@ -1835,7 +1919,8 @@
     "audioFileName": "hari.m4a",
     "notes": null,
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hari-rerenga.m4a"
   },
   {
     "id": "pouri-ahua",
@@ -1851,7 +1936,8 @@
     "audioFileName": "pouri.m4a",
     "notes": "Can also mean dark or overcast when referring to weather.",
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "pouri-rerenga.m4a"
   },
   {
     "id": "riri-ahua",
@@ -1867,7 +1953,8 @@
     "audioFileName": "riri.m4a",
     "notes": null,
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "riri-rerenga.m4a"
   },
   {
     "id": "mataku-ahua",
@@ -1883,7 +1970,8 @@
     "audioFileName": "mataku.m4a",
     "notes": null,
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mataku-rerenga.m4a"
   },
   {
     "id": "aroha-ingoa",
@@ -1900,7 +1988,8 @@
     "audioFileName": "aroha.m4a",
     "notes": "Aroha is a deeply important concept in te ao Māori, encompassing love, compassion, empathy, and concern for others.",
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "aroha-rerenga.m4a"
   },
   {
     "id": "ngakau-mahaki-ahua",
@@ -1916,7 +2005,8 @@
     "audioFileName": "ngakau-mahaki.m4a",
     "notes": "Ngākau means heart or mind; māhaki means gentle or mild.",
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ngakau-mahaki-rerenga.m4a"
   },
   {
     "id": "whakama-ahua",
@@ -1932,7 +2022,8 @@
     "audioFileName": "whakama.m4a",
     "notes": "Whakamā can range from mild shyness to deep shame depending on context.",
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "whakama-rerenga.m4a"
   },
   {
     "id": "hiamo-ahua",
@@ -1948,7 +2039,8 @@
     "audioFileName": "hiamo.m4a",
     "notes": null,
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hiamo-rerenga.m4a"
   },
   {
     "id": "mangere-ahua",
@@ -1964,7 +2056,8 @@
     "audioFileName": "mangere.m4a",
     "notes": "Māngere is also the name of a suburb in Auckland.",
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mangere-rerenga.m4a"
   },
   {
     "id": "hiakai-ahua",
@@ -1980,7 +2073,8 @@
     "audioFileName": "hiakai.m4a",
     "notes": "Hia- is a prefix indicating desire; kai means food. So hiakai literally means desiring food.",
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hiakai-rerenga.m4a"
   },
   {
     "id": "kainga-ingoa",
@@ -1996,7 +2090,8 @@
     "audioFileName": "kainga.m4a",
     "notes": "Kāinga refers to where one lives and can also mean a village or settlement.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kainga-rerenga.m4a"
   },
   {
     "id": "kura-ingoa",
@@ -2011,7 +2106,8 @@
     "audioFileName": "kura.m4a",
     "notes": "Kura also traditionally means a treasure. Kura kaupapa Māori are Māori-medium schools.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kura-rerenga.m4a"
   },
   {
     "id": "whare-ingoa",
@@ -2027,7 +2123,8 @@
     "audioFileName": "whare.m4a",
     "notes": "Whare is used as a base word in many compound words, e.g. whare kai (dining hall), whare moe (bedroom).",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "whare-rerenga.m4a"
   },
   {
     "id": "toa-ingoa",
@@ -2042,7 +2139,8 @@
     "audioFileName": "toa.m4a",
     "notes": "Toa also traditionally means a warrior or brave person. Context determines meaning.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "toa-rerenga.m4a"
   },
   {
     "id": "whare-karakia-ingoa",
@@ -2057,7 +2155,8 @@
     "audioFileName": "whare-karakia.m4a",
     "notes": "Literally means house of prayer. Karakia can refer to prayer, incantation, or blessing.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "whare-karakia-rerenga.m4a"
   },
   {
     "id": "papa-takaro-ingoa",
@@ -2073,7 +2172,8 @@
     "audioFileName": "papa-takaro.m4a",
     "notes": "Papa means a flat surface or ground; tākaro means to play.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "papa-takaro-rerenga.m4a"
   },
   {
     "id": "turanga-waka-ingoa",
@@ -2089,7 +2189,8 @@
     "audioFileName": "turanga-waka.m4a",
     "notes": "Tūranga means a standing place; waka means vehicle or canoe.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "turanga-waka-rerenga.m4a"
   },
   {
     "id": "hohipera-ingoa",
@@ -2102,7 +2203,8 @@
     "audioFileName": "hohipera.m4a",
     "notes": "A transliteration of the English word hospital.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hohipera-rerenga.m4a"
   },
   {
     "id": "whare-pukapuka-ingoa",
@@ -2115,7 +2217,8 @@
     "audioFileName": "whare-pukapuka.m4a",
     "notes": "Literally means house of books.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "whare-pukapuka-rerenga.m4a"
   },
   {
     "id": "marae-ingoa",
@@ -2131,7 +2234,8 @@
     "audioFileName": "marae.m4a",
     "notes": "The marae is a sacred communal gathering place central to Māori identity.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "marae-rerenga.m4a"
   },
   {
     "id": "hu-ingoa",
@@ -2147,7 +2251,8 @@
     "audioFileName": "hu.m4a",
     "notes": null,
     "topic": "kakahu",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hu-rerenga.m4a"
   },
   {
     "id": "tarau-ingoa",
@@ -2162,7 +2267,8 @@
     "audioFileName": "tarau.m4a",
     "notes": "A transliteration derived from English.",
     "topic": "kakahu",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tarau-rerenga.m4a"
   },
   {
     "id": "hate-ingoa",
@@ -2177,7 +2283,8 @@
     "audioFileName": "hate.m4a",
     "notes": "A transliteration of the English word shirt.",
     "topic": "kakahu",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hate-rerenga.m4a"
   },
   {
     "id": "koti-ingoa",
@@ -2192,7 +2299,8 @@
     "audioFileName": "koti.m4a",
     "notes": "A transliteration of the English word coat.",
     "topic": "kakahu",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "koti-rerenga.m4a"
   },
   {
     "id": "potae-ingoa",
@@ -2207,7 +2315,8 @@
     "audioFileName": "potae.m4a",
     "notes": null,
     "topic": "kakahu",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "potae-rerenga.m4a"
   },
   {
     "id": "tokena-ingoa",
@@ -2222,7 +2331,8 @@
     "audioFileName": "tokena.m4a",
     "notes": "A transliteration of the English word stocking.",
     "topic": "kakahu",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tokena-rerenga.m4a"
   },
   {
     "id": "pueru-ingoa",
@@ -2235,7 +2345,8 @@
     "audioFileName": "pueru.m4a",
     "notes": null,
     "topic": "kakahu",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "pueru-rerenga.m4a"
   },
   {
     "id": "kakahu-ingoa",
@@ -2251,7 +2362,8 @@
     "audioFileName": "kakahu.m4a",
     "notes": "Kākahu is the general term for clothing or garments. Traditionally it also referred to cloaks.",
     "topic": "kakahu",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kakahu-rerenga.m4a"
   },
   {
     "id": "tepu-ingoa",
@@ -2264,7 +2376,8 @@
     "audioFileName": "tepu.m4a",
     "notes": "A transliteration of the English word table.",
     "topic": "kainga",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tepu-rerenga.m4a"
   },
   {
     "id": "turu-ingoa",
@@ -2279,7 +2392,8 @@
     "audioFileName": "turu.m4a",
     "notes": null,
     "topic": "kainga",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "turu-rerenga.m4a"
   },
   {
     "id": "moenga-ingoa",
@@ -2294,7 +2408,8 @@
     "audioFileName": "moenga.m4a",
     "notes": "Derived from moe (to sleep). Moenga literally means a place for sleeping.",
     "topic": "kainga",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "moenga-rerenga.m4a"
   },
   {
     "id": "kihini-ingoa",
@@ -2307,7 +2422,8 @@
     "audioFileName": "kihini.m4a",
     "notes": "A transliteration of the English word kitchen.",
     "topic": "kainga",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kihini-rerenga.m4a"
   },
   {
     "id": "ruma-ingoa",
@@ -2320,7 +2436,8 @@
     "audioFileName": "ruma.m4a",
     "notes": "A transliteration of the English word room. Rūma moe means bedroom.",
     "topic": "kainga",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ruma-rerenga.m4a"
   },
   {
     "id": "tatau-ingoa",
@@ -2335,7 +2452,8 @@
     "audioFileName": "tatau.m4a",
     "notes": null,
     "topic": "kainga",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tatau-rerenga.m4a"
   },
   {
     "id": "matapihi-ingoa",
@@ -2348,7 +2466,8 @@
     "audioFileName": "matapihi.m4a",
     "notes": null,
     "topic": "kainga",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "matapihi-rerenga.m4a"
   },
   {
     "id": "wharepaku-ingoa",
@@ -2364,7 +2483,8 @@
     "audioFileName": "wharepaku.m4a",
     "notes": "Literally means small house. Traditionally the wharepaku was a separate building.",
     "topic": "kainga",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "wharepaku-rerenga.m4a"
   },
   {
     "id": "pouaka-whakaata-ingoa",
@@ -2379,6 +2499,1431 @@
     "audioFileName": "pouaka-whakaata.m4a",
     "notes": "Literally means box of reflections. Pouaka means box; whakaata means to reflect.",
     "topic": "kainga",
+    "difficulty": 1,
+    "sentenceAudioFileName": "pouaka-whakaata-rerenga.m4a"
+  },
+  {
+    "id": "tekau-ma-tahi-tuke",
+    "teReo": "tekau mā tahi",
+    "english": "eleven, 11",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mā tahi ngā tamariki.",
+    "exampleTranslation": "There are eleven children.",
+    "audioFileName": "tekau-ma-tahi.m4a",
+    "notes": "Tekau mā = ten and. Add the unit number after mā.",
+    "topic": "tau",
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-ma-tahi-rerenga.m4a"
+  },
+  {
+    "id": "tekau-ma-rua-tuke",
+    "teReo": "tekau mā rua",
+    "english": "twelve, 12",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mā rua ngā marama o te tau.",
+    "exampleTranslation": "There are twelve months in the year.",
+    "audioFileName": "tekau-ma-rua.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-ma-rua-rerenga.m4a"
+  },
+  {
+    "id": "tekau-ma-toru-tuke",
+    "teReo": "tekau mā toru",
+    "english": "thirteen, 13",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mā toru aku tau.",
+    "exampleTranslation": "I am thirteen years old.",
+    "audioFileName": "tekau-ma-toru.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-ma-toru-rerenga.m4a"
+  },
+  {
+    "id": "tekau-ma-wha-tuke",
+    "teReo": "tekau mā whā",
+    "english": "fourteen, 14",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mā whā ngā rā kua pahure.",
+    "exampleTranslation": "Fourteen days have passed.",
+    "audioFileName": "tekau-ma-wha.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-ma-wha-rerenga.m4a"
+  },
+  {
+    "id": "tekau-ma-rima-tuke",
+    "teReo": "tekau mā rima",
+    "english": "fifteen, 15",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mā rima meneti kei te toe.",
+    "exampleTranslation": "Fifteen minutes are remaining.",
+    "audioFileName": "tekau-ma-rima.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-ma-rima-rerenga.m4a"
+  },
+  {
+    "id": "tekau-ma-ono-tuke",
+    "teReo": "tekau mā ono",
+    "english": "sixteen, 16",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mā ono ngā tāngata i tae mai.",
+    "exampleTranslation": "Sixteen people arrived.",
+    "audioFileName": "tekau-ma-ono.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-ma-ono-rerenga.m4a"
+  },
+  {
+    "id": "tekau-ma-whitu-tuke",
+    "teReo": "tekau mā whitu",
+    "english": "seventeen, 17",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mā whitu ngā pukapuka.",
+    "exampleTranslation": "There are seventeen books.",
+    "audioFileName": "tekau-ma-whitu.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-ma-whitu-rerenga.m4a"
+  },
+  {
+    "id": "tekau-ma-waru-tuke",
+    "teReo": "tekau mā waru",
+    "english": "eighteen, 18",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mā waru aku tau.",
+    "exampleTranslation": "I am eighteen years old.",
+    "audioFileName": "tekau-ma-waru.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-ma-waru-rerenga.m4a"
+  },
+  {
+    "id": "tekau-ma-iwa-tuke",
+    "teReo": "tekau mā iwa",
+    "english": "nineteen, 19",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mā iwa ngā kēmu i tākaro.",
+    "exampleTranslation": "Nineteen games were played.",
+    "audioFileName": "tekau-ma-iwa.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 1,
+    "sentenceAudioFileName": "tekau-ma-iwa-rerenga.m4a"
+  },
+  {
+    "id": "rua-tekau-tuke",
+    "teReo": "rua tekau",
+    "english": "twenty, 20",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E rua tekau ngā tāngata i te hui.",
+    "exampleTranslation": "There are twenty people at the meeting.",
+    "audioFileName": "rua-tekau.m4a",
+    "notes": "Tens are formed as: number + tekau. E.g. rua tekau = two tens = 20.",
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "rua-tekau-rerenga.m4a"
+  },
+  {
+    "id": "toru-tekau-tuke",
+    "teReo": "toru tekau",
+    "english": "thirty, 30",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E toru tekau ngā rā o te marama.",
+    "exampleTranslation": "There are thirty days in the month.",
+    "audioFileName": "toru-tekau.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "toru-tekau-rerenga.m4a"
+  },
+  {
+    "id": "wha-tekau-tuke",
+    "teReo": "whā tekau",
+    "english": "forty, 40",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E whā tekau ōna tau.",
+    "exampleTranslation": "He is forty years old.",
+    "audioFileName": "wha-tekau.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "wha-tekau-rerenga.m4a"
+  },
+  {
+    "id": "rima-tekau-tuke",
+    "teReo": "rima tekau",
+    "english": "fifty, 50",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E rima tekau paihēneti te utu.",
+    "exampleTranslation": "Fifty percent is the price.",
+    "audioFileName": "rima-tekau.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "rima-tekau-rerenga.m4a"
+  },
+  {
+    "id": "ono-tekau-tuke",
+    "teReo": "ono tekau",
+    "english": "sixty, 60",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E ono tekau ngā meneti i roto i te hāora.",
+    "exampleTranslation": "There are sixty minutes in an hour.",
+    "audioFileName": "ono-tekau.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "ono-tekau-rerenga.m4a"
+  },
+  {
+    "id": "whitu-tekau-tuke",
+    "teReo": "whitu tekau",
+    "english": "seventy, 70",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E whitu tekau ngā tāngata i te marae.",
+    "exampleTranslation": "There are seventy people at the marae.",
+    "audioFileName": "whitu-tekau.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "whitu-tekau-rerenga.m4a"
+  },
+  {
+    "id": "waru-tekau-tuke",
+    "teReo": "waru tekau",
+    "english": "eighty, 80",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E waru tekau ōna tau.",
+    "exampleTranslation": "She is eighty years old.",
+    "audioFileName": "waru-tekau.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "waru-tekau-rerenga.m4a"
+  },
+  {
+    "id": "iwa-tekau-tuke",
+    "teReo": "iwa tekau",
+    "english": "ninety, 90",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E iwa tekau ngā kiromita ki reira.",
+    "exampleTranslation": "It is ninety kilometres to there.",
+    "audioFileName": "iwa-tekau.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "iwa-tekau-rerenga.m4a"
+  },
+  {
+    "id": "rua-tekau-ma-tahi-tuke",
+    "teReo": "rua tekau mā tahi",
+    "english": "twenty-one, 21",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E rua tekau mā tahi ōna tau.",
+    "exampleTranslation": "She is twenty-one years old.",
+    "audioFileName": "rua-tekau-ma-tahi.m4a",
+    "notes": "Composite numbers: tens + mā + units. E.g. rua tekau mā tahi = 21.",
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "rua-tekau-ma-tahi-rerenga.m4a"
+  },
+  {
+    "id": "rua-tekau-ma-rima-tuke",
+    "teReo": "rua tekau mā rima",
+    "english": "twenty-five, 25",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E rua tekau mā rima ngā ākonga.",
+    "exampleTranslation": "There are twenty-five students.",
+    "audioFileName": "rua-tekau-ma-rima.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "rua-tekau-ma-rima-rerenga.m4a"
+  },
+  {
+    "id": "toru-tekau-ma-tahi-tuke",
+    "teReo": "toru tekau mā tahi",
+    "english": "thirty-one, 31",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E toru tekau mā tahi ngā rā o tēnei marama.",
+    "exampleTranslation": "There are thirty-one days in this month.",
+    "audioFileName": "toru-tekau-ma-tahi.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "toru-tekau-ma-tahi-rerenga.m4a"
+  },
+  {
+    "id": "e-rua-rau-tuke",
+    "teReo": "e rua rau",
+    "english": "two hundred, 200",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E rua rau ngā tāngata i te whare.",
+    "exampleTranslation": "There are two hundred people in the house.",
+    "audioFileName": "e-rua-rau.m4a",
+    "notes": "Hundreds: e + number + rau. 'Kotahi rau' (one hundred) uses kotahi, not tahi.",
+    "topic": "tau",
+    "difficulty": 2,
+    "sentenceAudioFileName": "e-rua-rau-rerenga.m4a"
+  },
+  {
+    "id": "e-toru-rau-tuke",
+    "teReo": "e toru rau",
+    "english": "three hundred, 300",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E toru rau ngā pukapuka i te whare pukapuka.",
+    "exampleTranslation": "There are three hundred books in the library.",
+    "audioFileName": "e-toru-rau.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2
+  },
+  {
+    "id": "e-rima-rau-tuke",
+    "teReo": "e rima rau",
+    "english": "five hundred, 500",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E rima rau ngā tāra.",
+    "exampleTranslation": "Five hundred dollars.",
+    "audioFileName": "e-rima-rau.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 2
+  },
+  {
+    "id": "e-rua-mano-tuke",
+    "teReo": "e rua mano",
+    "english": "two thousand, 2000",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E rua mano ngā tāngata i te hui nui.",
+    "exampleTranslation": "Two thousand people at the big meeting.",
+    "audioFileName": "e-rua-mano.m4a",
+    "notes": "Thousands: e + number + mano.",
+    "topic": "tau",
+    "difficulty": 3
+  },
+  {
+    "id": "e-toru-mano-tuke",
+    "teReo": "e toru mano",
+    "english": "three thousand, 3000",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "E toru mano ngā tāngata i haere mai.",
+    "exampleTranslation": "Three thousand people came.",
+    "audioFileName": "e-toru-mano.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 3
+  },
+  {
+    "id": "tekau-mano-tuke",
+    "teReo": "tekau mano",
+    "english": "ten thousand, 10000",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Tekau mano ngā tāngata i te tāone.",
+    "exampleTranslation": "Ten thousand people in the town.",
+    "audioFileName": "tekau-mano.m4a",
+    "notes": null,
+    "topic": "tau",
+    "difficulty": 3
+  },
+  {
+    "id": "rahina-ingoa",
+    "teReo": "Rāhina",
+    "english": "Monday",
+    "alternativeTranslations": [
+      "Mane"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ka tīmata te kura i te Rāhina.",
+    "exampleTranslation": "School starts on Monday.",
+    "audioFileName": "rahina.m4a",
+    "notes": "Literally 'day of the moon' (rā + hina). Mane is also used (from English 'Monday').",
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "ratu-ingoa",
+    "teReo": "Rātū",
+    "english": "Tuesday",
+    "alternativeTranslations": [
+      "Tūrei"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ka haere au ki te toa i te Rātū.",
+    "exampleTranslation": "I will go to the shop on Tuesday.",
+    "audioFileName": "ratu.m4a",
+    "notes": "Literally 'day of Tū' (the god of war).",
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "raapa-ingoa",
+    "teReo": "Rāapa",
+    "english": "Wednesday",
+    "alternativeTranslations": [
+      "Wenerei"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te Rāapa ka hui tātou.",
+    "exampleTranslation": "On Wednesday we will meet.",
+    "audioFileName": "raapa.m4a",
+    "notes": "Literally 'day of Apa' (a corruption of 'Woden' via English).",
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "rapare-ingoa",
+    "teReo": "Rāpare",
+    "english": "Thursday",
+    "alternativeTranslations": [
+      "Tāite"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko te Rāpare te rā pai ki ahau.",
+    "exampleTranslation": "Thursday is my favourite day.",
+    "audioFileName": "rapare.m4a",
+    "notes": null,
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "ramere-ingoa",
+    "teReo": "Rāmere",
+    "english": "Friday",
+    "alternativeTranslations": [
+      "Paraire"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ka wātea au i te Rāmere.",
+    "exampleTranslation": "I am free on Friday.",
+    "audioFileName": "ramere.m4a",
+    "notes": null,
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "rahoroi-ingoa",
+    "teReo": "Rāhoroi",
+    "english": "Saturday",
+    "alternativeTranslations": [
+      "Hātarei"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te Rāhoroi ka haere mātou ki te moana.",
+    "exampleTranslation": "On Saturday we go to the beach.",
+    "audioFileName": "rahoroi.m4a",
+    "notes": "Literally 'washing day' (rā + horoi).",
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "ratapu-ingoa",
+    "teReo": "Rātapu",
+    "english": "Sunday",
+    "alternativeTranslations": [],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko te Rātapu te rā okioki.",
+    "exampleTranslation": "Sunday is the day of rest.",
+    "audioFileName": "ratapu.m4a",
+    "notes": "Literally 'sacred day' (rā + tapu).",
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "kohitatea-ingoa",
+    "teReo": "Kohitātea",
+    "english": "January",
+    "alternativeTranslations": [
+      "Hānuere"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko Kohitātea te marama tuatahi o te tau.",
+    "exampleTranslation": "January is the first month of the year.",
+    "audioFileName": "kohitatea.m4a",
+    "notes": "Named after the kōhitātea tree whose white flowers bloom in January.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "hui-tanguru-ingoa",
+    "teReo": "Hui-tanguru",
+    "english": "February",
+    "alternativeTranslations": [
+      "Pēpuere"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te Hui-tanguru ka mahana te rangi.",
+    "exampleTranslation": "In February the weather is warm.",
+    "audioFileName": "hui-tanguru.m4a",
+    "notes": "Named for when seasonal winds blow from the north.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "poutu-te-rangi-ingoa",
+    "teReo": "Poutū-te-rangi",
+    "english": "March",
+    "alternativeTranslations": [
+      "Māehe"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko Poutū-te-rangi te marama o te ngahuru.",
+    "exampleTranslation": "March is the month of autumn.",
+    "audioFileName": "poutu-te-rangi.m4a",
+    "notes": "Named after a star that appears in March.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "paenga-whawha-ingoa",
+    "teReo": "Paenga-whāwhā",
+    "english": "April",
+    "alternativeTranslations": [
+      "Āperira"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te Paenga-whāwhā ka tīmata te makariri.",
+    "exampleTranslation": "In April the cold starts.",
+    "audioFileName": "paenga-whawha.m4a",
+    "notes": "The name refers to the end of harvesting dried crops.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "haratua-ingoa",
+    "teReo": "Haratua",
+    "english": "May",
+    "alternativeTranslations": [
+      "Mei"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko Haratua te marama o ngā hākari.",
+    "exampleTranslation": "May is the month of feasts.",
+    "audioFileName": "haratua.m4a",
+    "notes": null,
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "pipiri-ingoa",
+    "teReo": "Pipiri",
+    "english": "June",
+    "alternativeTranslations": [
+      "Hune"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te Pipiri ka piri ngā tāngata ki te ahi.",
+    "exampleTranslation": "In June people huddle by the fire.",
+    "audioFileName": "pipiri.m4a",
+    "notes": "Pipiri means 'to be close together' — people huddle for warmth in winter.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "hongongoi-ingoa",
+    "teReo": "Hōngongoi",
+    "english": "July",
+    "alternativeTranslations": [
+      "Hūrae"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko Hōngongoi te marama makariri rawa.",
+    "exampleTranslation": "July is the coldest month.",
+    "audioFileName": "hongongoi.m4a",
+    "notes": "Refers to the earth being dormant in the cold of winter.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "here-turi-koka-ingoa",
+    "teReo": "Here-turi-kōkā",
+    "english": "August",
+    "alternativeTranslations": [
+      "Ākuhata"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te Here-turi-kōkā ka tīmata te mahana anō.",
+    "exampleTranslation": "In August the warmth begins again.",
+    "audioFileName": "here-turi-koka.m4a",
+    "notes": null,
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "mahuru-ingoa",
+    "teReo": "Mahuru",
+    "english": "September",
+    "alternativeTranslations": [
+      "Hepetema"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko Mahuru te marama o te kōanga.",
+    "exampleTranslation": "September is the month of spring.",
+    "audioFileName": "mahuru.m4a",
+    "notes": "The name relates to the warming of the earth.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "whiringa-a-nuku-ingoa",
+    "teReo": "Whiringa-ā-nuku",
+    "english": "October",
+    "alternativeTranslations": [
+      "Oketopa"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te Whiringa-ā-nuku ka tupu ngā tipu.",
+    "exampleTranslation": "In October the plants grow.",
+    "audioFileName": "whiringa-a-nuku.m4a",
+    "notes": "Literally 'turning of the earth' — the earth turns towards warmth.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "whiringa-a-rangi-ingoa",
+    "teReo": "Whiringa-ā-rangi",
+    "english": "November",
+    "alternativeTranslations": [
+      "Noema"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko Whiringa-ā-rangi te marama o te raumati.",
+    "exampleTranslation": "November is the month of summer.",
+    "audioFileName": "whiringa-a-rangi.m4a",
+    "notes": "Literally 'turning of the sky' — the sky turns towards summer.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "hakihea-ingoa",
+    "teReo": "Hakihea",
+    "english": "December",
+    "alternativeTranslations": [
+      "Tīhema"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko Hakihea te marama whakamutunga o te tau.",
+    "exampleTranslation": "December is the last month of the year.",
+    "audioFileName": "hakihea.m4a",
+    "notes": "The name refers to the harvest of early crops.",
+    "topic": "wa",
+    "difficulty": 2
+  },
+  {
+    "id": "koanga-ingoa",
+    "teReo": "kōanga",
+    "english": "spring",
+    "alternativeTranslations": [],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te kōanga ka puāwai ngā tipu.",
+    "exampleTranslation": "In spring the plants bloom.",
+    "audioFileName": "koanga.m4a",
+    "notes": "From 'kō' (to plant) — the planting season.",
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "raumati-ingoa",
+    "teReo": "raumati",
+    "english": "summer",
+    "alternativeTranslations": [],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te raumati ka haere mātou ki te moana.",
+    "exampleTranslation": "In summer we go to the sea.",
+    "audioFileName": "raumati.m4a",
+    "notes": null,
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "ngahuru-ingoa",
+    "teReo": "ngahuru",
+    "english": "autumn",
+    "alternativeTranslations": [
+      "harvest time"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te ngahuru ka hinga ngā rau.",
+    "exampleTranslation": "In autumn the leaves fall.",
+    "audioFileName": "ngahuru.m4a",
+    "notes": "Also an older word for ten. Associated with harvest time.",
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "hotoke-ingoa",
+    "teReo": "hōtoke",
+    "english": "winter",
+    "alternativeTranslations": [],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "I te hōtoke ka hukarere i runga i te maunga.",
+    "exampleTranslation": "In winter it snows on the mountain.",
+    "audioFileName": "hotoke.m4a",
+    "notes": null,
+    "topic": "wa",
+    "difficulty": 1
+  },
+  {
+    "id": "te-tuke",
+    "teReo": "te",
+    "english": "the (singular)",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ko te kurī tēnā.",
+    "exampleTranslation": "That is the dog.",
+    "audioFileName": "te.m4a",
+    "notes": "Definite singular article. Used before singular nouns.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "nga-tuke",
+    "teReo": "ngā",
+    "english": "the (plural)",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ko ngā tamariki ēnā.",
+    "exampleTranslation": "Those are the children.",
+    "audioFileName": "nga.m4a",
+    "notes": "Definite plural article. The plural form of 'te'.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "he-tuke",
+    "teReo": "he",
+    "english": "a, some (indefinite)",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "He aha tēnei? He pukapuka.",
+    "exampleTranslation": "What is this? It is a book.",
+    "audioFileName": "he.m4a",
+    "notes": "Indefinite article. Used for unspecified nouns. Also used in classificatory sentences.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "tetahi-tuke",
+    "teReo": "tētahi",
+    "english": "a, a certain, one",
+    "alternativeTranslations": [
+      "one of",
+      "another"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "I kite au i tētahi manu.",
+    "exampleTranslation": "I saw a (certain) bird.",
+    "audioFileName": "tetahi.m4a",
+    "notes": "Indefinite specific article. Used when referring to a particular but unspecified thing.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "ki-tuke",
+    "teReo": "ki",
+    "english": "to, towards",
+    "alternativeTranslations": [
+      "unto"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ka haere au ki te kura.",
+    "exampleTranslation": "I will go to school.",
+    "audioFileName": "ki.m4a",
+    "notes": "Directional preposition indicating movement towards. Also means 'to say'.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "i-tuke",
+    "teReo": "i",
+    "english": "at, in, from (past)",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "I noho au i te kāinga.",
+    "exampleTranslation": "I stayed at home.",
+    "audioFileName": "i.m4a",
+    "notes": "Locative for past tense. Also a past tense marker before verbs.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "kei-tuke",
+    "teReo": "kei",
+    "english": "at, located at (present)",
+    "alternativeTranslations": [
+      "is at"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Kei te kura ngā tamariki.",
+    "exampleTranslation": "The children are at school.",
+    "audioFileName": "kei.m4a",
+    "notes": "Present tense locative. 'Kei te' before a verb = present continuous tense.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "hei-tuke",
+    "teReo": "hei",
+    "english": "for, at (future)",
+    "alternativeTranslations": [
+      "as a"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Hei āpōpō tātou hui ai.",
+    "exampleTranslation": "We will meet tomorrow.",
+    "audioFileName": "hei.m4a",
+    "notes": "Future tense locative preposition.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "ko-tuke",
+    "teReo": "ko",
+    "english": "it is (emphasis, identity)",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ko Aotearoa tōku whenua.",
+    "exampleTranslation": "Aotearoa is my land.",
+    "audioFileName": "ko.m4a",
+    "notes": "Used to identify or emphasize. Essential in mihimihi (introductions).",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "no-tuke",
+    "teReo": "nō",
+    "english": "of, from (origin)",
+    "alternativeTranslations": [
+      "belonging to"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Nō Ōtautahi au.",
+    "exampleTranslation": "I am from Christchurch.",
+    "audioFileName": "no.m4a",
+    "notes": "Indicates origin or belonging in past/neutral contexts.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "na-tuke",
+    "teReo": "nā",
+    "english": "by, belonging to",
+    "alternativeTranslations": [
+      "of"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Nā wai tēnei pukapuka?",
+    "exampleTranslation": "Whose book is this?",
+    "audioFileName": "na.m4a",
+    "notes": "Indicates possession or agent. 'Nā' for things near the speaker.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "mo-tuke",
+    "teReo": "mō",
+    "english": "for, about",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "He koha tēnei mō koe.",
+    "exampleTranslation": "This is a gift for you.",
+    "audioFileName": "mo.m4a",
+    "notes": "Preposition meaning 'for' or 'about'. Used for future purpose.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "ma-tuke",
+    "teReo": "mā",
+    "english": "for, by (agent)",
+    "alternativeTranslations": [
+      "through"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Māu e mahi.",
+    "exampleTranslation": "It is for you to do.",
+    "audioFileName": "ma.m4a",
+    "notes": "Agent preposition. Not to be confused with 'mā' meaning 'white' (colour).",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "au-tuke",
+    "teReo": "au",
+    "english": "I, me",
+    "alternativeTranslations": [
+      "ahau"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ko au tēnei.",
+    "exampleTranslation": "This is me.",
+    "audioFileName": "au.m4a",
+    "notes": "'Au' and 'ahau' are both used for 'I/me'. 'Au' is shorter and more common in casual speech.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "koe-tuke",
+    "teReo": "koe",
+    "english": "you (singular)",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Nō hea koe?",
+    "exampleTranslation": "Where are you from?",
+    "audioFileName": "koe.m4a",
+    "notes": "Second person singular pronoun.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "ia-tuke",
+    "teReo": "ia",
+    "english": "he, she, it",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Kei te haere ia ki te kura.",
+    "exampleTranslation": "He/she is going to school.",
+    "audioFileName": "ia.m4a",
+    "notes": "Third person singular pronoun. Te reo Māori does not distinguish gender in pronouns.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "maua-tuke",
+    "teReo": "māua",
+    "english": "we two (excluding you)",
+    "alternativeTranslations": [
+      "us two"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ka haere māua ki te toa.",
+    "exampleTranslation": "We two (not you) will go to the shop.",
+    "audioFileName": "maua.m4a",
+    "notes": "First person dual exclusive. Refers to the speaker and one other, but NOT the listener.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "taua-tuke",
+    "teReo": "tāua",
+    "english": "we two (including you)",
+    "alternativeTranslations": [
+      "us two"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ka haere tāua ki te moana.",
+    "exampleTranslation": "Let's go (you and I) to the sea.",
+    "audioFileName": "taua.m4a",
+    "notes": "First person dual inclusive. Refers to the speaker AND the listener.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "korua-tuke",
+    "teReo": "kōrua",
+    "english": "you two",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ka haere kōrua ki hea?",
+    "exampleTranslation": "Where are you two going?",
+    "audioFileName": "korua.m4a",
+    "notes": "Second person dual pronoun.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "raua-tuke",
+    "teReo": "rāua",
+    "english": "they two, them two",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Kei te kai rāua.",
+    "exampleTranslation": "They two are eating.",
+    "audioFileName": "raua.m4a",
+    "notes": "Third person dual pronoun.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "matou-tuke",
+    "teReo": "mātou",
+    "english": "we (three or more, excluding you)",
+    "alternativeTranslations": [
+      "us"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ka waiata mātou.",
+    "exampleTranslation": "We (not you) will sing.",
+    "audioFileName": "matou.m4a",
+    "notes": "First person plural exclusive. Three or more people, NOT including the listener.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "tatou-tuke",
+    "teReo": "tātou",
+    "english": "we (three or more, including you)",
+    "alternativeTranslations": [
+      "us all",
+      "all of us"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ka kai tātou!",
+    "exampleTranslation": "Let's all eat!",
+    "audioFileName": "tatou.m4a",
+    "notes": "First person plural inclusive. Three or more people, INCLUDING the listener.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "koutou-tuke",
+    "teReo": "koutou",
+    "english": "you all (three or more)",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Kei te pēhea koutou?",
+    "exampleTranslation": "How are you all?",
+    "audioFileName": "koutou.m4a",
+    "notes": "Second person plural pronoun. Three or more people.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "ratou-tuke",
+    "teReo": "rātou",
+    "english": "they, them (three or more)",
+    "alternativeTranslations": [],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Kei te mahi rātou i te māra.",
+    "exampleTranslation": "They are working in the garden.",
+    "audioFileName": "ratou.m4a",
+    "notes": "Third person plural pronoun. Three or more people.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "tangata-whanau",
+    "teReo": "tangata",
+    "english": "person, human",
+    "alternativeTranslations": [
+      "man"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "He tangata pai ia.",
+    "exampleTranslation": "He is a good person.",
+    "audioFileName": "tangata.m4a",
+    "notes": "One of the most important words in te reo. Plural: tāngata.",
+    "topic": "whanau",
+    "difficulty": 1,
+    "pluralForm": "tāngata"
+  },
+  {
+    "id": "tamaiti-ingoa",
+    "teReo": "tamaiti",
+    "english": "child",
+    "alternativeTranslations": [
+      "boy"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "He tamaiti pai ia.",
+    "exampleTranslation": "He/she is a good child.",
+    "audioFileName": "tamaiti.m4a",
+    "notes": "Irregular plural: tamariki (children). One of the most common irregular plurals.",
+    "topic": "whanau",
+    "difficulty": 1,
+    "pluralForm": "tamariki"
+  },
+  {
+    "id": "matua-ingoa",
+    "teReo": "matua",
+    "english": "parent, father",
+    "alternativeTranslations": [
+      "elder"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ko ia tōku matua.",
+    "exampleTranslation": "He is my parent/father.",
+    "audioFileName": "matua.m4a",
+    "notes": "Plural: mātua (parents). Also used respectfully for elders.",
+    "topic": "whanau",
+    "difficulty": 1,
+    "pluralForm": "mātua"
+  },
+  {
+    "id": "waka-ingoa",
+    "teReo": "waka",
+    "english": "canoe, vehicle, vessel",
+    "alternativeTranslations": [
+      "boat",
+      "car",
+      "conveyance"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Ka haere mātou i runga i te waka.",
+    "exampleTranslation": "We will travel on the canoe.",
+    "audioFileName": "waka.m4a",
+    "notes": "Waka can refer to canoe, car, or any vehicle. 'Waka hourua' = double-hulled canoe. Central to Māori identity and migration stories.",
+    "topic": "wahi",
+    "difficulty": 1
+  },
+  {
+    "id": "ora-ahua",
+    "teReo": "ora",
+    "english": "alive, well, healthy",
+    "alternativeTranslations": [
+      "life",
+      "survive",
+      "health"
+    ],
+    "partOfSpeech": "āhua",
+    "exampleSentence": "Kia ora koe!",
+    "exampleTranslation": "Be well! (Hello!)",
+    "audioFileName": "ora.m4a",
+    "notes": "The root of 'kia ora' (be well/hello). Also in 'mauri ora' (vitality) and 'whare ora' (wellness centre).",
+    "topic": "kare-a-roto",
+    "difficulty": 1
+  },
+  {
+    "id": "moku-tuke",
+    "teReo": "mōku",
+    "english": "for me",
+    "alternativeTranslations": [
+      "mine (future)"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "He taonga tēnei mōku.",
+    "exampleTranslation": "This is a treasure for me.",
+    "audioFileName": "moku.m4a",
+    "notes": "Mō (for) + ku (me). Used for future purpose or intended recipient.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "mau-tuke",
+    "teReo": "māu",
+    "english": "for you",
+    "alternativeTranslations": [
+      "yours (future)"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "He koha tēnei māu.",
+    "exampleTranslation": "This is a gift for you.",
+    "audioFileName": "mau.m4a",
+    "notes": "Mā (for/by) + u (you). The agent or beneficiary form of 'you'.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "mona-tuke",
+    "teReo": "mōna",
+    "english": "for him/her",
+    "alternativeTranslations": [
+      "his/hers (future)"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "He kai tēnei mōna.",
+    "exampleTranslation": "This food is for him/her.",
+    "audioFileName": "mona.m4a",
+    "notes": "Mō (for) + na (him/her).",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "mo-tatou-tuke",
+    "teReo": "mō tātou",
+    "english": "for us all",
+    "alternativeTranslations": [
+      "for all of us"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "He rā whakahirahira tēnei mō tātou.",
+    "exampleTranslation": "This is an important day for us all.",
+    "audioFileName": "mo-tatou.m4a",
+    "notes": "Mō (for) + tātou (us all, inclusive).",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "noku-tuke",
+    "teReo": "nōku",
+    "english": "mine, belonging to me",
+    "alternativeTranslations": [
+      "from me"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Nōku tēnei whare.",
+    "exampleTranslation": "This house belongs to me.",
+    "audioFileName": "noku.m4a",
+    "notes": "Nō (of/from) + ku (me). Indicates possession or origin.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "nau-tuke",
+    "teReo": "nāu",
+    "english": "yours, belonging to you",
+    "alternativeTranslations": [
+      "by you"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Nāu tēnei pukapuka?",
+    "exampleTranslation": "Is this book yours?",
+    "audioFileName": "nau.m4a",
+    "notes": "Nā (by/belonging to) + u (you).",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "nona-tuke",
+    "teReo": "nōna",
+    "english": "his/hers, belonging to him/her",
+    "alternativeTranslations": [
+      "from him/her"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Nōna tēnei kurī.",
+    "exampleTranslation": "This dog belongs to him/her.",
+    "audioFileName": "nona.m4a",
+    "notes": "Nō (of/from) + na (him/her).",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "ki-a-au-tuke",
+    "teReo": "ki a au",
+    "english": "to me, towards me",
+    "alternativeTranslations": [
+      "with me"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Homai ki a au.",
+    "exampleTranslation": "Give it to me.",
+    "audioFileName": "ki-a-au.m4a",
+    "notes": "Ki (to/towards) + a (personal article) + au (me). The 'a' is needed before personal pronouns.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "ki-a-koe-tuke",
+    "teReo": "ki a koe",
+    "english": "to you, towards you",
+    "alternativeTranslations": [
+      "with you"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Ka haere mai au ki a koe.",
+    "exampleTranslation": "I will come to you.",
+    "audioFileName": "ki-a-koe.m4a",
+    "notes": "Ki (to/towards) + a (personal article) + koe (you).",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "ki-a-ia-tuke",
+    "teReo": "ki a ia",
+    "english": "to him/her",
+    "alternativeTranslations": [
+      "towards him/her"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "Kōrerohia ki a ia.",
+    "exampleTranslation": "Tell it to him/her.",
+    "audioFileName": "ki-a-ia.m4a",
+    "notes": "Ki (to/towards) + a (personal article) + ia (him/her).",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "i-a-au-tuke",
+    "teReo": "i a au",
+    "english": "from me, at me",
+    "alternativeTranslations": [
+      "by me"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "I riro i a au te taonga.",
+    "exampleTranslation": "The treasure was obtained by me.",
+    "audioFileName": "i-a-au.m4a",
+    "notes": "I (at/from/by) + a (personal article) + au (me). Past tense location or agent.",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "i-a-koe-tuke",
+    "teReo": "i a koe",
+    "english": "from you, at you",
+    "alternativeTranslations": [
+      "by you"
+    ],
+    "partOfSpeech": "tūkē",
+    "exampleSentence": "I rongo au i a koe.",
+    "exampleTranslation": "I heard you.",
+    "audioFileName": "i-a-koe.m4a",
+    "notes": "I (at/from/by) + a (personal article) + koe (you).",
+    "topic": "wetereo",
+    "difficulty": 2
+  },
+  {
+    "id": "tata-ahua",
+    "teReo": "tata",
+    "english": "near, close",
+    "alternativeTranslations": [
+      "nearby",
+      "close to"
+    ],
+    "partOfSpeech": "āhua",
+    "exampleSentence": "Kei tata te toa.",
+    "exampleTranslation": "The shop is nearby.",
+    "audioFileName": "tata.m4a",
+    "notes": "Used with ki for 'near to': tata ki a koe = near you.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "tawhiti-ahua",
+    "teReo": "tawhiti",
+    "english": "far, distant",
+    "alternativeTranslations": [
+      "far away",
+      "remote"
+    ],
+    "partOfSpeech": "āhua",
+    "exampleSentence": "Kei tawhiti te marae.",
+    "exampleTranslation": "The marae is far away.",
+    "audioFileName": "tawhiti.m4a",
+    "notes": "Used with i for 'far from': tawhiti i a mātou = far from us.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "roto-ingoa",
+    "teReo": "roto",
+    "english": "inside, within",
+    "alternativeTranslations": [
+      "interior",
+      "lake"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Kei roto i te whare ia.",
+    "exampleTranslation": "He/she is inside the house.",
+    "audioFileName": "roto.m4a",
+    "notes": "Locative noun. 'Ki roto' = into, 'i roto' = inside, 'kei roto' = is inside. Also means 'lake'.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "waho-ingoa",
+    "teReo": "waho",
+    "english": "outside, exterior",
+    "alternativeTranslations": [
+      "out",
+      "outer"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Haere ki waho.",
+    "exampleTranslation": "Go outside.",
+    "audioFileName": "waho.m4a",
+    "notes": "Locative noun. 'Ki waho' = to outside, 'i waho' = outside, 'kei waho' = is outside.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "runga-ingoa",
+    "teReo": "runga",
+    "english": "above, on top, up",
+    "alternativeTranslations": [
+      "top",
+      "upon"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Kei runga i te tēpu te pukapuka.",
+    "exampleTranslation": "The book is on top of the table.",
+    "audioFileName": "runga.m4a",
+    "notes": "Locative noun. 'Ki runga' = onto/up, 'i runga' = on top of, 'kei runga' = is on top.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "raro-ingoa",
+    "teReo": "raro",
+    "english": "below, under, down",
+    "alternativeTranslations": [
+      "beneath",
+      "bottom"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Kei raro i te tēpu te kurī.",
+    "exampleTranslation": "The dog is under the table.",
+    "audioFileName": "raro.m4a",
+    "notes": "Locative noun. 'Ki raro' = downwards, 'i raro' = below, 'kei raro' = is underneath.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "mua-ingoa",
+    "teReo": "mua",
+    "english": "front, before, ahead",
+    "alternativeTranslations": [
+      "in front of",
+      "earlier"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Kei mua i te whare te waka.",
+    "exampleTranslation": "The car is in front of the house.",
+    "audioFileName": "mua.m4a",
+    "notes": "Locative noun. 'I mua' = in front of, before (in time). 'Ki mua' = to the front.",
+    "topic": "wetereo",
+    "difficulty": 1
+  },
+  {
+    "id": "muri-ingoa",
+    "teReo": "muri",
+    "english": "behind, after, back",
+    "alternativeTranslations": [
+      "rear",
+      "later"
+    ],
+    "partOfSpeech": "ingoa",
+    "exampleSentence": "Kei muri i te whare te māra.",
+    "exampleTranslation": "The garden is behind the house.",
+    "audioFileName": "muri.m4a",
+    "notes": "Locative noun. 'I muri' = behind, after. 'Ki muri' = to the back.",
+    "topic": "wetereo",
     "difficulty": 1
   }
 ]

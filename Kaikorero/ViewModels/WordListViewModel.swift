@@ -17,10 +17,17 @@ final class WordListViewModel {
 
     var currentBatchWords: [WordEntry] = []
     var selectedTopic: Topic?
+    private(set) var addedWordIDs: Set<String> = []
 
     init(wordDataService: WordDataService, modelContext: ModelContext) {
         self.wordDataService = wordDataService
         self.modelContext = modelContext
+        reloadAddedWordIDs()
+    }
+
+    private func reloadAddedWordIDs() {
+        let allProgress = fetchAllProgress()
+        addedWordIDs = Set(allProgress.map(\.wordId))
     }
 
     var topics: [Topic] {
@@ -38,8 +45,7 @@ final class WordListViewModel {
     func loadCurrentBatch() {
         let settings = fetchOrCreateSettings()
 
-        let allProgress = fetchAllProgress()
-        let addedWordIDs = Set(allProgress.map(\.wordId))
+        reloadAddedWordIDs()
 
         // Check if we need a new batch
         let daysSinceBatchStart = Calendar.current.dateComponents(
@@ -53,23 +59,40 @@ final class WordListViewModel {
         }
 
         // Load current batch words
-        let recentProgress = allProgress.sorted { $0.dateAdded > $1.dateAdded }
+        let recentProgress = fetchAllProgress().sorted { $0.dateAdded > $1.dateAdded }
         let batchWordIDs = recentProgress.prefix(settings.wordsPerBatch).map(\.wordId)
         currentBatchWords = batchWordIDs.compactMap { wordDataService.word(for: $0) }
     }
 
     func isWordAdded(_ wordID: String) -> Bool {
-        let descriptor = FetchDescriptor<WordProgress>(
-            predicate: #Predicate { $0.wordId == wordID }
-        )
-        return (try? modelContext.fetchCount(descriptor)) ?? 0 > 0
+        addedWordIDs.contains(wordID)
     }
 
     func addWord(_ word: WordEntry) {
-        guard !isWordAdded(word.id) else { return }
+        guard !addedWordIDs.contains(word.id) else { return }
         let progress = WordProgress(wordId: word.id)
         modelContext.insert(progress)
         try? modelContext.save()
+        addedWordIDs.insert(word.id)
+    }
+
+    func removeWord(_ wordID: String) {
+        let descriptor = FetchDescriptor<WordProgress>(
+            predicate: #Predicate { $0.wordId == wordID }
+        )
+        if let progress = try? modelContext.fetch(descriptor).first {
+            modelContext.delete(progress)
+            try? modelContext.save()
+            addedWordIDs.remove(wordID)
+            currentBatchWords.removeAll { $0.id == wordID }
+        }
+    }
+
+    func refreshBatch() {
+        reloadAddedWordIDs()
+        let settings = fetchOrCreateSettings()
+        addNewBatch(settings: settings, existingWordIDs: addedWordIDs)
+        loadCurrentBatch()
     }
 
     func progressForWord(_ wordID: String) -> WordProgress? {
@@ -80,10 +103,10 @@ final class WordListViewModel {
     }
 
     private func addNewBatch(settings: LearnerSettings, existingWordIDs: Set<String>) {
-        // Find words not yet added, prioritise by difficulty
+        // Find words not yet added, shuffled for variety
         let available = wordDataService.words
-            .sorted { $0.difficulty < $1.difficulty }
             .filter { !existingWordIDs.contains($0.id) }
+            .shuffled()
 
         let newWords = Array(available.prefix(settings.wordsPerBatch))
 

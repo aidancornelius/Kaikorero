@@ -103,5 +103,12 @@
         "english": "Home & Household",
         "iconName": "house.fill",
         "sortOrder": 15
+    },
+    {
+        "id": "wetereo",
+        "teReo": "Te Wetereo",
+        "english": "Grammar",
+        "iconName": "textformat",
+        "sortOrder": 16
     }
 ]

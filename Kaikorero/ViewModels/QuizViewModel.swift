@@ -27,11 +27,16 @@ final class QuizViewModel {
     var incorrectCount = 0
     var answeredWords: [(word: WordEntry, wasCorrect: Bool)] = []
 
-    // Setup options
-    var selectedQuizTypes: Set<QuizType> = [.multipleChoice, .reverseChoice, .trueFalse]
+    // Setup options (synced via iCloud KV store)
+    var selectedQuizTypes: Set<QuizType> = Set(QuizType.allCases) {
+        didSet { Self.saveQuizTypes(selectedQuizTypes) }
+    }
     var questionCount = 10
     var includeReviewWords = true
     var autoPlayAudio = true
+
+    private static let quizTypesKey = "selectedQuizTypes"
+    private static let kvStore = NSUbiquitousKeyValueStore.default
 
     init(
         quizService: QuizService,
@@ -43,6 +48,18 @@ final class QuizViewModel {
         self.srsService = srsService
         self.wordDataService = wordDataService
         self.modelContext = modelContext
+
+        Self.kvStore.synchronize()
+        if let saved = Self.kvStore.array(forKey: Self.quizTypesKey) as? [Int] {
+            let types = saved.compactMap { QuizType(rawValue: $0) }
+            if !types.isEmpty {
+                self.selectedQuizTypes = Set(types)
+            }
+        }
+    }
+
+    private static func saveQuizTypes(_ types: Set<QuizType>) {
+        kvStore.set(types.map(\.rawValue), forKey: quizTypesKey)
     }
 
     var currentQuestion: QuizQuestion? {
@@ -61,8 +78,17 @@ final class QuizViewModel {
         return Int((Double(correctCount) / Double(total)) * 100)
     }
 
+    // Words to use for pack quizzes (set before navigating to quiz session)
+    var packWords: [WordEntry]?
+
     func startQuiz() {
-        let words = gatherQuizWords()
+        let words: [WordEntry]
+        if let pack = packWords {
+            words = pack
+            packWords = nil
+        } else {
+            words = gatherQuizWords()
+        }
         questions = quizService.generateQuiz(
             words: words,
             types: selectedQuizTypes,
@@ -75,6 +101,12 @@ final class QuizViewModel {
         correctCount = 0
         incorrectCount = 0
         answeredWords = []
+    }
+
+    func startPackQuiz(words: [WordEntry]) {
+        packWords = words
+        // Set question count to match pack size, capped at 30
+        questionCount = min(words.count, 30)
     }
 
     func selectAnswer(_ index: Int) {
@@ -97,6 +129,7 @@ final class QuizViewModel {
             wasCorrect: wasCorrect
         )
         modelContext.insert(result)
+        try? modelContext.save()
 
         // Update SRS
         updateSRS(for: question.word, wasCorrect: wasCorrect)

@@ -33,6 +33,7 @@ struct Topic: Codable, Identifiable, Sendable, Hashable {
         case "wahi": .gray
         case "kakahu": .purple
         case "kainga": .orange
+        case "wetereo": .indigo
         default: .accentColor
         }
     }

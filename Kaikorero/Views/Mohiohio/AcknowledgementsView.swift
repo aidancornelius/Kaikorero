@@ -14,10 +14,6 @@ struct AcknowledgementsView: View {
             List {
                 Section {
                     VStack(spacing: 8) {
-                        Image(systemName: "text.book.closed.fill")
-                            .font(.system(size: 48))
-                            .foregroundStyle(Color.accentColor)
-
                         Text("Kaikōrero")
                             .font(.title)
                             .fontWeight(.bold)
@@ -64,7 +60,7 @@ struct AcknowledgementsView: View {
                     acknowledgementRow(
                         title: "Te Aka Māori Dictionary",
                         subtitle: "John C. Moorfield",
-                        detail: "An invaluable online resource for te reo Māori learners. We encourage all learners to visit teara.govt.nz/mi/te-aka.",
+                        detail: "An invaluable online resource for te reo Māori learners. We encourage all learners to visit maoridictionary.co.nz.",
                         license: nil
                     )
                 } header: {

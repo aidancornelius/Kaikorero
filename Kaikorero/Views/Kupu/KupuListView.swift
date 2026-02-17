@@ -32,9 +32,32 @@ struct KupuListView: View {
         List {
             ForEach(words) { word in
                 NavigationLink {
-                    KupuDetailView(word: word, audioViewModel: audioViewModel)
+                    KupuDetailView(
+                        word: word,
+                        audioViewModel: audioViewModel,
+                        wordListViewModel: wordListViewModel
+                    )
                 } label: {
                     KupuRowView(word: word, wordListViewModel: wordListViewModel)
+                }
+                .swipeActions(edge: .trailing, allowsFullSwipe: true) {
+                    if wordListViewModel.isWordAdded(word.id) {
+                        Button(role: .destructive) {
+                            wordListViewModel.removeWord(word.id)
+                        } label: {
+                            Label("Tango", systemImage: "minus.circle.fill")
+                        }
+                    }
+                }
+                .swipeActions(edge: .leading, allowsFullSwipe: true) {
+                    if !wordListViewModel.isWordAdded(word.id) {
+                        Button {
+                            wordListViewModel.addWord(word)
+                        } label: {
+                            Label("Tāpiri", systemImage: "plus.circle.fill")
+                        }
+                        .tint(.green)
+                    }
                 }
             }
         }
@@ -48,6 +71,15 @@ struct KupuListView: View {
                     englishFont: .caption,
                     alignment: .center
                 )
+            }
+            if topic == nil {
+                ToolbarItem(placement: .primaryAction) {
+                    Button {
+                        wordListViewModel.refreshBatch()
+                    } label: {
+                        Label("Whakahōu", systemImage: "arrow.triangle.2.circlepath")
+                    }
+                }
             }
         }
         .onAppear {
