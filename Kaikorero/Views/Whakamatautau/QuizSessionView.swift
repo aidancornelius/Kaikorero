@@ -79,6 +79,13 @@ struct QuizSessionView: View {
     private func playAudioIfAvailable(for question: QuizQuestion) {
         guard quizViewModel.autoPlayAudio else { return }
 
+        if question.type == .listenChoose {
+            if let audioFile = question.word.audioFileName {
+                audioViewModel.play(fileName: audioFile)
+            }
+            return
+        }
+
         if question.type == .listenSentence {
             if let sentenceAudio = question.sentenceAudioFileName {
                 audioViewModel.play(fileName: sentenceAudio)
@@ -94,7 +101,6 @@ struct QuizSessionView: View {
         }
 
         guard let audioFile = question.word.audioFileName,
-              question.type != .listenChoose,
               question.type != .reverseChoice // English prompt — don't auto-play
         else { return }
         audioViewModel.play(fileName: audioFile)
@@ -142,6 +148,35 @@ struct QuizSessionView: View {
                         .accessibilityLabel(quizViewModel.showingResult ? "Play full proverb" : "Play proverb")
                         .padding(.top, 4)
                     }
+                } else if question.type == .listenChoose {
+                    // Listen & Choose: play word audio, user picks English translation
+                    Button {
+                        if let audioFile = question.word.audioFileName {
+                            audioViewModel.play(fileName: audioFile)
+                        }
+                    } label: {
+                        Image(systemName: audioViewModel.isPlaying ? "speaker.wave.3.fill" : "speaker.wave.2.fill")
+                            .font(.system(size: 48))
+                            .foregroundStyle(Color.accentColor)
+                            .symbolEffect(.variableColor.iterative, isActive: audioViewModel.isPlaying)
+                            .frame(width: 100, height: 100)
+                            .background(.fill.tertiary)
+                            .clipShape(Circle())
+                    }
+                    .accessibilityLabel("Play word")
+
+                    Text("Tap to listen")
+                        .font(.caption)
+                        .foregroundStyle(.tertiary)
+
+                    // Reveal the te reo word after answering
+                    if quizViewModel.showingResult {
+                        Text(question.word.teReo)
+                            .font(.title2)
+                            .fontWeight(.semibold)
+                            .transition(.opacity)
+                    }
+
                 } else if question.type == .listenSentence {
                     // Listen to sentence: show play button, ask which word
                     Button {

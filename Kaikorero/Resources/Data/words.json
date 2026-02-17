@@ -399,7 +399,8 @@
     "audioFileName": "kanohi.m4a",
     "notes": "Also used figuratively: 'kanohi kitea' means a face that is seen (being present).",
     "topic": "tinana",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kanohi-rerenga.m4a"
   },
   {
     "id": "taringa-ingoa",
@@ -414,7 +415,8 @@
     "audioFileName": "taringa.m4a",
     "notes": null,
     "topic": "tinana",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "taringa-rerenga.m4a"
   },
   {
     "id": "ihu-ingoa",
@@ -429,7 +431,8 @@
     "audioFileName": "ihu.m4a",
     "notes": "The hongi (pressing noses together) is a traditional Māori greeting.",
     "topic": "tinana",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ihu-rerenga.m4a"
   },
   {
     "id": "waha-ingoa",
@@ -445,7 +448,8 @@
     "audioFileName": "waha.m4a",
     "notes": "Can also mean 'to carry' when used as a verb.",
     "topic": "tinana",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "waha-rerenga.m4a"
   },
   {
     "id": "ringa-ingoa",
@@ -461,7 +465,8 @@
     "audioFileName": "ringa.m4a",
     "notes": null,
     "topic": "tinana",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ringa-rerenga.m4a"
   },
   {
     "id": "waewae-ingoa",
@@ -477,7 +482,8 @@
     "audioFileName": "waewae.m4a",
     "notes": null,
     "topic": "tinana",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "waewae-rerenga.m4a"
   },
   {
     "id": "puku-ingoa",
@@ -493,7 +499,8 @@
     "audioFileName": "puku.m4a",
     "notes": "Also used in compound words, e.g., 'pukukai' (glutton).",
     "topic": "tinana",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "puku-rerenga.m4a"
   },
   {
     "id": "tuara-ingoa",
@@ -509,7 +516,8 @@
     "audioFileName": "tuara.m4a",
     "notes": null,
     "topic": "tinana",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "tuara-rerenga.m4a"
   },
   {
     "id": "manawa-ingoa",
@@ -526,7 +534,8 @@
     "audioFileName": "manawa.m4a",
     "notes": "Used in many compound words: 'manawanui' (determination), 'manawaroa' (patience).",
     "topic": "tinana",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "manawa-rerenga.m4a"
   },
   {
     "id": "rakau-ingoa",
@@ -543,7 +552,8 @@
     "audioFileName": "rakau.m4a",
     "notes": "Can also refer to tools, weapons, or any wooden implement.",
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "rakau-rerenga.m4a"
   },
   {
     "id": "moana-ingoa",
@@ -559,7 +569,8 @@
     "audioFileName": "moana.m4a",
     "notes": "Can refer to any large body of water including lakes.",
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "moana-rerenga.m4a"
   },
   {
     "id": "maunga-ingoa",
@@ -575,7 +586,8 @@
     "audioFileName": "maunga.m4a",
     "notes": "Mountains are often named in mihimihi (introductions) as identity markers.",
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "maunga-rerenga.m4a"
   },
   {
     "id": "awa-ingoa",
@@ -592,7 +604,8 @@
     "audioFileName": "awa.m4a",
     "notes": "Rivers are important identity markers in mihimihi (introductions).",
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "awa-rerenga.m4a"
   },
   {
     "id": "whenua-ingoa",
@@ -609,7 +622,8 @@
     "audioFileName": "whenua.m4a",
     "notes": "Also means 'placenta', reflecting the deep connection between people and land.",
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "whenua-rerenga.m4a"
   },
   {
     "id": "ra-ingoa",
@@ -625,7 +639,8 @@
     "audioFileName": "ra.m4a",
     "notes": "Tamanuiterā is the personification of the sun in Māori tradition.",
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ra-rerenga.m4a"
   },
   {
     "id": "marama-ingoa",
@@ -643,7 +658,8 @@
     "audioFileName": "marama.m4a",
     "notes": "Also means 'clear' or 'bright' as an adjective. The Māori calendar is based on lunar months.",
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "marama-rerenga.m4a"
   },
   {
     "id": "whetu-ingoa",
@@ -658,7 +674,8 @@
     "audioFileName": "whetu.m4a",
     "notes": "Stars were crucial for Polynesian navigation (whakatere waka).",
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "whetu-rerenga.m4a"
   },
   {
     "id": "kapua-ingoa",
@@ -673,7 +690,8 @@
     "audioFileName": "kapua.m4a",
     "notes": "Aotearoa means 'land of the long white cloud' (ao-tea-roa).",
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kapua-rerenga.m4a"
   },
   {
     "id": "ua-ingoa",
@@ -688,7 +706,8 @@
     "audioFileName": "ua.m4a",
     "notes": null,
     "topic": "taiao",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ua-rerenga.m4a"
   },
   {
     "id": "kai-ingoa",
@@ -705,7 +724,8 @@
     "audioFileName": "kai.m4a",
     "notes": "One of the most commonly used Māori words in New Zealand English.",
     "topic": "kai",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kai-rerenga.m4a"
   },
   {
     "id": "wai-ingoa",
@@ -721,7 +741,8 @@
     "audioFileName": "wai.m4a",
     "notes": "Also a question word meaning 'who'. Context determines the meaning.",
     "topic": "kai",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "wai-rerenga.m4a"
   },
   {
     "id": "miraka-ingoa",
@@ -736,7 +757,8 @@
     "audioFileName": "miraka.m4a",
     "notes": "A transliteration from English.",
     "topic": "kai",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "miraka-rerenga.m4a"
   },
   {
     "id": "paraoa-ingoa",
@@ -752,7 +774,8 @@
     "audioFileName": "paraoa.m4a",
     "notes": "Parāoa parai (fried bread) is a well-known Māori food.",
     "topic": "kai",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "paraoa-rerenga.m4a"
   },
   {
     "id": "ika-ingoa",
@@ -767,7 +790,8 @@
     "audioFileName": "ika.m4a",
     "notes": "Te Ika-a-Māui (the fish of Māui) is the Māori name for the North Island.",
     "topic": "kai",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ika-rerenga.m4a"
   },
   {
     "id": "kumara-ingoa",
@@ -783,7 +807,8 @@
     "audioFileName": "kumara.m4a",
     "notes": "A staple food brought to Aotearoa by Polynesian voyagers. Proverb: 'Kāore te kūmara e kōrero mō tōna ake reka' (the kūmara does not speak of its own sweetness).",
     "topic": "kai",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kumara-rerenga.m4a"
   },
   {
     "id": "aporo-ingoa",
@@ -798,7 +823,8 @@
     "audioFileName": "aporo.m4a",
     "notes": "A transliteration from English.",
     "topic": "kai",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "aporo-rerenga.m4a"
   },
   {
     "id": "ti-ingoa",
@@ -813,7 +839,8 @@
     "audioFileName": "ti.m4a",
     "notes": "A transliteration from English. Also the name of the cabbage tree (tī kōuka).",
     "topic": "kai",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ti-rerenga.m4a"
   },
   {
     "id": "riwai-ingoa",
@@ -828,7 +855,8 @@
     "audioFileName": "riwai.m4a",
     "notes": "Refers to the European potato, distinct from kūmara (sweet potato).",
     "topic": "kai",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "riwai-rerenga.m4a"
   },
   {
     "id": "huarakau-ingoa",
@@ -843,7 +871,8 @@
     "audioFileName": "huarakau.m4a",
     "notes": "From 'hua' (fruit/product) and 'rākau' (tree/plant).",
     "topic": "kai",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "huarakau-rerenga.m4a"
   },
   {
     "id": "whero-ahua",
@@ -858,7 +887,8 @@
     "audioFileName": "whero.m4a",
     "notes": "One of the traditional colours in Māori art and carving.",
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "whero-rerenga.m4a"
   },
   {
     "id": "kakariki-ahua",
@@ -873,7 +903,8 @@
     "audioFileName": "kakariki.m4a",
     "notes": "Also the name of the native green parakeet (kākāriki). The colour is named after the bird.",
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kakariki-rerenga.m4a"
   },
   {
     "id": "kikorangi-ahua",
@@ -888,7 +919,8 @@
     "audioFileName": "kikorangi.m4a",
     "notes": null,
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kikorangi-rerenga.m4a"
   },
   {
     "id": "kowhai-ahua",
@@ -903,7 +935,8 @@
     "audioFileName": "kowhai.m4a",
     "notes": "Also the name of the native kōwhai tree, known for its bright yellow flowers.",
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kowhai-rerenga.m4a"
   },
   {
     "id": "ma-ahua",
@@ -919,7 +952,8 @@
     "audioFileName": "ma.m4a",
     "notes": "Also means 'clean' or 'pure'. Used in 'Aotearoa' — ao-tea-roa (long white cloud).",
     "topic": "tae",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ma-rerenga.m4a"
   },
   {
     "id": "mangu-ahua",
@@ -2807,7 +2841,8 @@
     "audioFileName": "e-toru-rau.m4a",
     "notes": null,
     "topic": "tau",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "e-toru-rau-rerenga.m4a"
   },
   {
     "id": "e-rima-rau-tuke",
@@ -2820,7 +2855,8 @@
     "audioFileName": "e-rima-rau.m4a",
     "notes": null,
     "topic": "tau",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "e-rima-rau-rerenga.m4a"
   },
   {
     "id": "e-rua-mano-tuke",
@@ -2833,7 +2869,8 @@
     "audioFileName": "e-rua-mano.m4a",
     "notes": "Thousands: e + number + mano.",
     "topic": "tau",
-    "difficulty": 3
+    "difficulty": 3,
+    "sentenceAudioFileName": "e-rua-mano-rerenga.m4a"
   },
   {
     "id": "e-toru-mano-tuke",
@@ -2846,7 +2883,8 @@
     "audioFileName": "e-toru-mano.m4a",
     "notes": null,
     "topic": "tau",
-    "difficulty": 3
+    "difficulty": 3,
+    "sentenceAudioFileName": "e-toru-mano-rerenga.m4a"
   },
   {
     "id": "tekau-mano-tuke",
@@ -2859,7 +2897,8 @@
     "audioFileName": "tekau-mano.m4a",
     "notes": null,
     "topic": "tau",
-    "difficulty": 3
+    "difficulty": 3,
+    "sentenceAudioFileName": "tekau-mano-rerenga.m4a"
   },
   {
     "id": "rahina-ingoa",
@@ -2874,7 +2913,8 @@
     "audioFileName": "rahina.m4a",
     "notes": "Literally 'day of the moon' (rā + hina). Mane is also used (from English 'Monday').",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "rahina-rerenga.m4a"
   },
   {
     "id": "ratu-ingoa",
@@ -2889,7 +2929,8 @@
     "audioFileName": "ratu.m4a",
     "notes": "Literally 'day of Tū' (the god of war).",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ratu-rerenga.m4a"
   },
   {
     "id": "raapa-ingoa",
@@ -2904,7 +2945,8 @@
     "audioFileName": "raapa.m4a",
     "notes": "Literally 'day of Apa' (a corruption of 'Woden' via English).",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "raapa-rerenga.m4a"
   },
   {
     "id": "rapare-ingoa",
@@ -2919,7 +2961,8 @@
     "audioFileName": "rapare.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "rapare-rerenga.m4a"
   },
   {
     "id": "ramere-ingoa",
@@ -2934,7 +2977,8 @@
     "audioFileName": "ramere.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ramere-rerenga.m4a"
   },
   {
     "id": "rahoroi-ingoa",
@@ -2949,7 +2993,8 @@
     "audioFileName": "rahoroi.m4a",
     "notes": "Literally 'washing day' (rā + horoi).",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "rahoroi-rerenga.m4a"
   },
   {
     "id": "ratapu-ingoa",
@@ -2962,7 +3007,8 @@
     "audioFileName": "ratapu.m4a",
     "notes": "Literally 'sacred day' (rā + tapu).",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ratapu-rerenga.m4a"
   },
   {
     "id": "kohitatea-ingoa",
@@ -2977,7 +3023,8 @@
     "audioFileName": "kohitatea.m4a",
     "notes": "Named after the kōhitātea tree whose white flowers bloom in January.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "kohitatea-rerenga.m4a"
   },
   {
     "id": "hui-tanguru-ingoa",
@@ -2992,7 +3039,8 @@
     "audioFileName": "hui-tanguru.m4a",
     "notes": "Named for when seasonal winds blow from the north.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "hui-tanguru-rerenga.m4a"
   },
   {
     "id": "poutu-te-rangi-ingoa",
@@ -3007,7 +3055,8 @@
     "audioFileName": "poutu-te-rangi.m4a",
     "notes": "Named after a star that appears in March.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "poutu-te-rangi-rerenga.m4a"
   },
   {
     "id": "paenga-whawha-ingoa",
@@ -3022,7 +3071,8 @@
     "audioFileName": "paenga-whawha.m4a",
     "notes": "The name refers to the end of harvesting dried crops.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "paenga-whawha-rerenga.m4a"
   },
   {
     "id": "haratua-ingoa",
@@ -3037,7 +3087,8 @@
     "audioFileName": "haratua.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "haratua-rerenga.m4a"
   },
   {
     "id": "pipiri-ingoa",
@@ -3052,7 +3103,8 @@
     "audioFileName": "pipiri.m4a",
     "notes": "Pipiri means 'to be close together' — people huddle for warmth in winter.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "pipiri-rerenga.m4a"
   },
   {
     "id": "hongongoi-ingoa",
@@ -3067,7 +3119,8 @@
     "audioFileName": "hongongoi.m4a",
     "notes": "Refers to the earth being dormant in the cold of winter.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "hongongoi-rerenga.m4a"
   },
   {
     "id": "here-turi-koka-ingoa",
@@ -3082,7 +3135,8 @@
     "audioFileName": "here-turi-koka.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "here-turi-koka-rerenga.m4a"
   },
   {
     "id": "mahuru-ingoa",
@@ -3097,7 +3151,8 @@
     "audioFileName": "mahuru.m4a",
     "notes": "The name relates to the warming of the earth.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "mahuru-rerenga.m4a"
   },
   {
     "id": "whiringa-a-nuku-ingoa",
@@ -3112,7 +3167,8 @@
     "audioFileName": "whiringa-a-nuku.m4a",
     "notes": "Literally 'turning of the earth' — the earth turns towards warmth.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "whiringa-a-nuku-rerenga.m4a"
   },
   {
     "id": "whiringa-a-rangi-ingoa",
@@ -3127,7 +3183,8 @@
     "audioFileName": "whiringa-a-rangi.m4a",
     "notes": "Literally 'turning of the sky' — the sky turns towards summer.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "whiringa-a-rangi-rerenga.m4a"
   },
   {
     "id": "hakihea-ingoa",
@@ -3142,7 +3199,8 @@
     "audioFileName": "hakihea.m4a",
     "notes": "The name refers to the harvest of early crops.",
     "topic": "wa",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "hakihea-rerenga.m4a"
   },
   {
     "id": "koanga-ingoa",
@@ -3155,7 +3213,8 @@
     "audioFileName": "koanga.m4a",
     "notes": "From 'kō' (to plant) — the planting season.",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "koanga-rerenga.m4a"
   },
   {
     "id": "raumati-ingoa",
@@ -3168,7 +3227,8 @@
     "audioFileName": "raumati.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "raumati-rerenga.m4a"
   },
   {
     "id": "ngahuru-ingoa",
@@ -3183,7 +3243,8 @@
     "audioFileName": "ngahuru.m4a",
     "notes": "Also an older word for ten. Associated with harvest time.",
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ngahuru-rerenga.m4a"
   },
   {
     "id": "hotoke-ingoa",
@@ -3196,7 +3257,8 @@
     "audioFileName": "hotoke.m4a",
     "notes": null,
     "topic": "wa",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hotoke-rerenga.m4a"
   },
   {
     "id": "te-tuke",
@@ -3209,7 +3271,8 @@
     "audioFileName": "te.m4a",
     "notes": "Definite singular article. Used before singular nouns.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "te-rerenga.m4a"
   },
   {
     "id": "nga-tuke",
@@ -3222,7 +3285,8 @@
     "audioFileName": "nga.m4a",
     "notes": "Definite plural article. The plural form of 'te'.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "nga-rerenga.m4a"
   },
   {
     "id": "he-tuke",
@@ -3235,7 +3299,8 @@
     "audioFileName": "he.m4a",
     "notes": "Indefinite article. Used for unspecified nouns. Also used in classificatory sentences.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "he-rerenga.m4a"
   },
   {
     "id": "tetahi-tuke",
@@ -3251,7 +3316,8 @@
     "audioFileName": "tetahi.m4a",
     "notes": "Indefinite specific article. Used when referring to a particular but unspecified thing.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tetahi-rerenga.m4a"
   },
   {
     "id": "ki-tuke",
@@ -3266,7 +3332,8 @@
     "audioFileName": "ki.m4a",
     "notes": "Directional preposition indicating movement towards. Also means 'to say'.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ki-rerenga.m4a"
   },
   {
     "id": "i-tuke",
@@ -3279,7 +3346,8 @@
     "audioFileName": "i.m4a",
     "notes": "Locative for past tense. Also a past tense marker before verbs.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "i-rerenga.m4a"
   },
   {
     "id": "kei-tuke",
@@ -3294,7 +3362,8 @@
     "audioFileName": "kei.m4a",
     "notes": "Present tense locative. 'Kei te' before a verb = present continuous tense.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "kei-rerenga.m4a"
   },
   {
     "id": "hei-tuke",
@@ -3309,7 +3378,8 @@
     "audioFileName": "hei.m4a",
     "notes": "Future tense locative preposition.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "hei-rerenga.m4a"
   },
   {
     "id": "ko-tuke",
@@ -3322,7 +3392,8 @@
     "audioFileName": "ko.m4a",
     "notes": "Used to identify or emphasize. Essential in mihimihi (introductions).",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ko-rerenga.m4a"
   },
   {
     "id": "no-tuke",
@@ -3337,7 +3408,8 @@
     "audioFileName": "no.m4a",
     "notes": "Indicates origin or belonging in past/neutral contexts.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "no-rerenga.m4a"
   },
   {
     "id": "na-tuke",
@@ -3352,7 +3424,8 @@
     "audioFileName": "na.m4a",
     "notes": "Indicates possession or agent. 'Nā' for things near the speaker.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "na-rerenga.m4a"
   },
   {
     "id": "mo-tuke",
@@ -3365,7 +3438,8 @@
     "audioFileName": "mo.m4a",
     "notes": "Preposition meaning 'for' or 'about'. Used for future purpose.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mo-rerenga.m4a"
   },
   {
     "id": "ma-tuke",
@@ -3380,7 +3454,8 @@
     "audioFileName": "ma.m4a",
     "notes": "Agent preposition. Not to be confused with 'mā' meaning 'white' (colour).",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ma-rerenga.m4a"
   },
   {
     "id": "au-tuke",
@@ -3395,7 +3470,8 @@
     "audioFileName": "au.m4a",
     "notes": "'Au' and 'ahau' are both used for 'I/me'. 'Au' is shorter and more common in casual speech.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "au-rerenga.m4a"
   },
   {
     "id": "koe-tuke",
@@ -3408,7 +3484,8 @@
     "audioFileName": "koe.m4a",
     "notes": "Second person singular pronoun.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "koe-rerenga.m4a"
   },
   {
     "id": "ia-tuke",
@@ -3421,7 +3498,8 @@
     "audioFileName": "ia.m4a",
     "notes": "Third person singular pronoun. Te reo Māori does not distinguish gender in pronouns.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ia-rerenga.m4a"
   },
   {
     "id": "maua-tuke",
@@ -3436,7 +3514,8 @@
     "audioFileName": "maua.m4a",
     "notes": "First person dual exclusive. Refers to the speaker and one other, but NOT the listener.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "maua-rerenga.m4a"
   },
   {
     "id": "taua-tuke",
@@ -3451,7 +3530,8 @@
     "audioFileName": "taua.m4a",
     "notes": "First person dual inclusive. Refers to the speaker AND the listener.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "taua-rerenga.m4a"
   },
   {
     "id": "korua-tuke",
@@ -3464,7 +3544,8 @@
     "audioFileName": "korua.m4a",
     "notes": "Second person dual pronoun.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "korua-rerenga.m4a"
   },
   {
     "id": "raua-tuke",
@@ -3477,7 +3558,8 @@
     "audioFileName": "raua.m4a",
     "notes": "Third person dual pronoun.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "raua-rerenga.m4a"
   },
   {
     "id": "matou-tuke",
@@ -3492,7 +3574,8 @@
     "audioFileName": "matou.m4a",
     "notes": "First person plural exclusive. Three or more people, NOT including the listener.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "matou-rerenga.m4a"
   },
   {
     "id": "tatou-tuke",
@@ -3508,7 +3591,8 @@
     "audioFileName": "tatou.m4a",
     "notes": "First person plural inclusive. Three or more people, INCLUDING the listener.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "tatou-rerenga.m4a"
   },
   {
     "id": "koutou-tuke",
@@ -3521,7 +3605,8 @@
     "audioFileName": "koutou.m4a",
     "notes": "Second person plural pronoun. Three or more people.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "koutou-rerenga.m4a"
   },
   {
     "id": "ratou-tuke",
@@ -3534,7 +3619,8 @@
     "audioFileName": "ratou.m4a",
     "notes": "Third person plural pronoun. Three or more people.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "ratou-rerenga.m4a"
   },
   {
     "id": "tangata-whanau",
@@ -3550,7 +3636,8 @@
     "notes": "One of the most important words in te reo. Plural: tāngata.",
     "topic": "whanau",
     "difficulty": 1,
-    "pluralForm": "tāngata"
+    "pluralForm": "tāngata",
+    "sentenceAudioFileName": "tangata-rerenga.m4a"
   },
   {
     "id": "tamaiti-ingoa",
@@ -3566,7 +3653,8 @@
     "notes": "Irregular plural: tamariki (children). One of the most common irregular plurals.",
     "topic": "whanau",
     "difficulty": 1,
-    "pluralForm": "tamariki"
+    "pluralForm": "tamariki",
+    "sentenceAudioFileName": "tamaiti-rerenga.m4a"
   },
   {
     "id": "matua-ingoa",
@@ -3582,7 +3670,8 @@
     "notes": "Plural: mātua (parents). Also used respectfully for elders.",
     "topic": "whanau",
     "difficulty": 1,
-    "pluralForm": "mātua"
+    "pluralForm": "mātua",
+    "sentenceAudioFileName": "matua-rerenga.m4a"
   },
   {
     "id": "waka-ingoa",
@@ -3599,7 +3688,8 @@
     "audioFileName": "waka.m4a",
     "notes": "Waka can refer to canoe, car, or any vehicle. 'Waka hourua' = double-hulled canoe. Central to Māori identity and migration stories.",
     "topic": "wahi",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "waka-rerenga.m4a"
   },
   {
     "id": "ora-ahua",
@@ -3616,7 +3706,8 @@
     "audioFileName": "ora.m4a",
     "notes": "The root of 'kia ora' (be well/hello). Also in 'mauri ora' (vitality) and 'whare ora' (wellness centre).",
     "topic": "kare-a-roto",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "ora-rerenga.m4a"
   },
   {
     "id": "moku-tuke",
@@ -3631,7 +3722,8 @@
     "audioFileName": "moku.m4a",
     "notes": "Mō (for) + ku (me). Used for future purpose or intended recipient.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "moku-rerenga.m4a"
   },
   {
     "id": "mau-tuke",
@@ -3646,7 +3738,8 @@
     "audioFileName": "mau.m4a",
     "notes": "Mā (for/by) + u (you). The agent or beneficiary form of 'you'.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "mau-rerenga.m4a"
   },
   {
     "id": "mona-tuke",
@@ -3661,7 +3754,8 @@
     "audioFileName": "mona.m4a",
     "notes": "Mō (for) + na (him/her).",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "mona-rerenga.m4a"
   },
   {
     "id": "mo-tatou-tuke",
@@ -3676,7 +3770,8 @@
     "audioFileName": "mo-tatou.m4a",
     "notes": "Mō (for) + tātou (us all, inclusive).",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "mo-tatou-rerenga.m4a"
   },
   {
     "id": "noku-tuke",
@@ -3691,7 +3786,8 @@
     "audioFileName": "noku.m4a",
     "notes": "Nō (of/from) + ku (me). Indicates possession or origin.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "noku-rerenga.m4a"
   },
   {
     "id": "nau-tuke",
@@ -3706,7 +3802,8 @@
     "audioFileName": "nau.m4a",
     "notes": "Nā (by/belonging to) + u (you).",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "nau-rerenga.m4a"
   },
   {
     "id": "nona-tuke",
@@ -3721,7 +3818,8 @@
     "audioFileName": "nona.m4a",
     "notes": "Nō (of/from) + na (him/her).",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "nona-rerenga.m4a"
   },
   {
     "id": "ki-a-au-tuke",
@@ -3736,7 +3834,8 @@
     "audioFileName": "ki-a-au.m4a",
     "notes": "Ki (to/towards) + a (personal article) + au (me). The 'a' is needed before personal pronouns.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "ki-a-au-rerenga.m4a"
   },
   {
     "id": "ki-a-koe-tuke",
@@ -3751,7 +3850,8 @@
     "audioFileName": "ki-a-koe.m4a",
     "notes": "Ki (to/towards) + a (personal article) + koe (you).",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "ki-a-koe-rerenga.m4a"
   },
   {
     "id": "ki-a-ia-tuke",
@@ -3766,7 +3866,8 @@
     "audioFileName": "ki-a-ia.m4a",
     "notes": "Ki (to/towards) + a (personal article) + ia (him/her).",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "ki-a-ia-rerenga.m4a"
   },
   {
     "id": "i-a-au-tuke",
@@ -3781,7 +3882,8 @@
     "audioFileName": "i-a-au.m4a",
     "notes": "I (at/from/by) + a (personal article) + au (me). Past tense location or agent.",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "i-a-au-rerenga.m4a"
   },
   {
     "id": "i-a-koe-tuke",
@@ -3796,7 +3898,8 @@
     "audioFileName": "i-a-koe.m4a",
     "notes": "I (at/from/by) + a (personal article) + koe (you).",
     "topic": "wetereo",
-    "difficulty": 2
+    "difficulty": 2,
+    "sentenceAudioFileName": "i-a-koe-rerenga.m4a"
   },
   {
     "id": "tata-ahua",
@@ -3812,7 +3915,8 @@
     "audioFileName": "tata.m4a",
     "notes": "Used with ki for 'near to': tata ki a koe = near you.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tata-rerenga.m4a"
   },
   {
     "id": "tawhiti-ahua",
@@ -3828,7 +3932,8 @@
     "audioFileName": "tawhiti.m4a",
     "notes": "Used with i for 'far from': tawhiti i a mātou = far from us.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "tawhiti-rerenga.m4a"
   },
   {
     "id": "roto-ingoa",
@@ -3844,7 +3949,8 @@
     "audioFileName": "roto.m4a",
     "notes": "Locative noun. 'Ki roto' = into, 'i roto' = inside, 'kei roto' = is inside. Also means 'lake'.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "roto-rerenga.m4a"
   },
   {
     "id": "waho-ingoa",
@@ -3860,7 +3966,8 @@
     "audioFileName": "waho.m4a",
     "notes": "Locative noun. 'Ki waho' = to outside, 'i waho' = outside, 'kei waho' = is outside.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "waho-rerenga.m4a"
   },
   {
     "id": "runga-ingoa",
@@ -3876,7 +3983,8 @@
     "audioFileName": "runga.m4a",
     "notes": "Locative noun. 'Ki runga' = onto/up, 'i runga' = on top of, 'kei runga' = is on top.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "runga-rerenga.m4a"
   },
   {
     "id": "raro-ingoa",
@@ -3892,7 +4000,8 @@
     "audioFileName": "raro.m4a",
     "notes": "Locative noun. 'Ki raro' = downwards, 'i raro' = below, 'kei raro' = is underneath.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "raro-rerenga.m4a"
   },
   {
     "id": "mua-ingoa",
@@ -3908,7 +4017,8 @@
     "audioFileName": "mua.m4a",
     "notes": "Locative noun. 'I mua' = in front of, before (in time). 'Ki mua' = to the front.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "mua-rerenga.m4a"
   },
   {
     "id": "muri-ingoa",
@@ -3924,6 +4034,7 @@
     "audioFileName": "muri.m4a",
     "notes": "Locative noun. 'I muri' = behind, after. 'Ki muri' = to the back.",
     "topic": "wetereo",
-    "difficulty": 1
+    "difficulty": 1,
+    "sentenceAudioFileName": "muri-rerenga.m4a"
   }
 ]
